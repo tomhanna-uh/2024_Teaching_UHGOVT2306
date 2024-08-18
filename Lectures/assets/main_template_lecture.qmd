@@ -9,8 +9,8 @@ format:
         revealjs:
                 self-contained: true
                 transition: convex
-                theme: [moon, custom.css]
-                logo: logo.png
+                theme: [moon, ../assets/custom.css]
+                logo: ../assets/logo.png
                 footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
 ---
 
