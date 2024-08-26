@@ -8,7 +8,7 @@ format:
         revealjs:
                 self-contained: true
                 transition: convex
-                theme: [moon, ../assets/custom.css]
+                theme: [default,../assets/custom.scss]
                 logo: ../assets/logo.png
                 footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
 ---
@@ -26,8 +26,24 @@ format:
 
         - Course Overview
         - Introduction to the topic of government
-        - Short demonstrations of Canvas, where to find resources in Canvas
+        - Walkthrough of Clicker/Point Solutions, Canvas Modules, and AccessUH
         - Questions
+  
+## Second Week Agenda
+
+- Monday
+
+        - Philosophies and Ideologies in American Government
+        - Walkthrough of CASA Registration
+        - Questions on Canvas, PointSolutions, AccessUH (if needed)
+        - Questions
+        
+- Wednesday
+        
+        - The Constitutional Framework: Checks and Balances, Separation of Powers
+        - 
+        - Questions
+
 
 ## Introduction
 
@@ -49,7 +65,16 @@ format:
         - Second/third career - former business manager and owner.
         - cooking, camping, kayaking, and computer gaming
         
+## Major course expectations
 
+- I do not expect you to be experts on the course material at the end
+- I do expect you to:
+
+        - Respect other people, starting with your classmates and myself
+        - Do the work
+        - Do your best
+        - Take responsbility for the work you did or not do
+        - Take some time to seriously consider the implications of the material for your own life and the lives of people you care about
 
 ## Course Outline/Procedures
 
@@ -96,6 +121,9 @@ format:
 - Most of your work outside class will be done through the Canvas Modules - this includes accessing the textbook
 - Complete Modules in order or you will be locked out of later assignments
 - You must pass the Syllabus Quiz with a perfect score to continue with the rest of the course!
+
+## Course Outline/Procedures (Continued)
+
 - Check Canvas Announcements and your official school Outlook email three times a week 
 
         - If you don't know how to get your school email, it is available in AccessUH...I will show you how to get there!
@@ -109,20 +137,124 @@ format:
 ## September 4 Independent Work Day! No Class!
 
 - No class September 4! Introduction Module Work Day!
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+        
+        - You must get 100%
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
 - The Syllabus Quiz is required
         
         - You must get 100%
         - You can retake it until you get 100%
+
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+
+        - Even if you miss everything, you get 1 point for taking it
         
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+
+        - Even if you miss everything, you get 1 point for taking it
+        - You are required to take it
+        
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
 - The Extra Credit Quiz is extra credit AND it is required
 
         - Even if you miss everything, you get 1 point for taking it
         - You are required to take it
         - You can only take it once
         
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by August 26
+
+        - We will go over it on Wednesday
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by August 26
+
+        - We will go over it on Wednesday
+        - You must register by August 26, because...
+        
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by August 26
+
+        - We will go over it on Wednesday
+        - You must register by August 26, because...
+        - We will start using it August 26, for points
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
 - Clicker/Point Solutions Registration by September 4
-- Introduction Module complete by 11:59 PM 
-- September 4 - instructor drop date!
+- CASA registration complete by September 4
+
+        - We will go through it on Monday, August 26
+        
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by September 4
+- CASA registration complete by September 4
+
+        - We will go through it on Monday, August 26
+        - I will talk briefly about test registration procedures then
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by September 4
+- CASA registration complete by September 4
+- Introduction Module complete by 11:59 PM, September 4...
+
+
+## September 4 Independent Work Day! No Class!
+
+- No class September 4! Introduction Module Work Day!
+- The Syllabus Quiz is required
+- The Extra Credit Quiz is extra credit AND it is required
+- Clicker/Point Solutions Registration by September 4
+- CASA registration complete by September 4
+- Introduction Module complete by 11:59 PM, September 4
+- September 5 - instructor drop date!
+
+## Course Policies: Basics
+
+- Number 1 Rule: Respect for other people
 
 ## Course Policies: Basics
 
@@ -130,21 +262,99 @@ format:
 - The policies exist to help me help you
 
         - 250 students in this class 
-        - Six hour a week job (including 3 hours class time, office hours, administration, and class prep)
+        - I am just one person
+        - Six hour a week devoted to this class (including 3 hours class time, office hours, administration, and class prep)
         - I have other classes and other professional commitments.
+ 
+## Course Policies: Basics
+
+- Number 1 Rule: Respect for other people
+- The policies exist to help me help you       
+- I may update policies if things are not working
+
+## Course Policies: Basics
+
+- Number 1 Rule: Respect for other people
+- The policies exist to help me help you       
 - I may update policies if things are not working
 - You are responsible for keeping track of due dates and assignments
+
+## Time Commitment
+
+- UH is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)
+
+## Time Commitment
+
+- UH is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)
+- Without accreditation a UH degree is worthless
+
+
+## Time Commitment
+
+- UH is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)
+- Without accreditation a UH degree is worthless
+- According to SACSCOC: 
+
+        - 1 credit hour = 1 hour in class + 2 hours out of class
+        
+        
+## Time Commitment
+
+- UH is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)
+- Without accreditation a UH degree is worthless
+- According to SACSCOC: 
+
+        - 1 credit hour = 1 hour in class + 2 hours out of class
+        - 3 credit hour class = 3 hours in class + 6 hours out of class
+        
+## Time Commitment
+
+- UH is accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACSCOC)
+- Without accreditation a UH degree is worthless
+- According to SACSCOC: 
+
+        - 1 credit hour = 1 hour in class + 2 hours out of class
+        - 3 credit hour class = 3 hours in class + 6 hours out of class
+        - 3 credit hour class = 9 hours a week
+        - This is a minimum, but the institution (UH) may set a higher standard!
+        
+https://sacscoc.org/app/uploads/2019/08/Credit-Hours.pdf
+
+
+## Commitment
+
+::: {.custom-style style="font-size: 80px;"}
+If 2/3 of the work is outside of class, what does that tell you about who has the major responsibility for your success or failure?
+:::
 
 ## Professionalism
 
 - Professionalism is a graded component of this class. 
-- As a student, according to the accreditation body that says UH degrees mean something, this class is your profession 9 hours a week. 
+
+
+
+## Professionalism
+
+- Professionalism is a graded component of this class. 
+- A major hallmark of professionalism is taking responsibility for doing what is expected of you and not blaming others for the consequences if you do not. 
+
+        - In other words, if you don't attend class and pay attention...
+        - If you don't put in two hours a week of real work outside class...
+        - If you don't do the assignments...
+        - If you don't study for the exams...
+        
+Your grade is on you!
+
+## Professionalism
+
+- Professionalism is a graded component of this class. 
+- A major hallmark of professionalism is taking responsibility for doing what is expected of you and not blaming others for the consequences if you do not. 
 - You are responsible for:
 
         - Time management
         - Your own learning
         - Doing the assignments
-        - Showing up
+        - Showing up and engaging
         - Applying brainpower
         - Working on the material
         - Following through on commitments
@@ -160,35 +370,93 @@ format:
         - Challenging you to do your best
         - Holding you accountable
         - Providing you with resources to succeed
+        - Assessing you fairly based on the standards and goals provided
         
 - I am not responsible for:
 
         - Forcing you to work
         - Doing your work for you
-        - Navigating the UH bureaucracy for you
-        - Anything your other professors require
-        - Spoonfeeding you the material
+        - Navigating the UH bureaucracy for you *
+        - Anything your other professors require of you that may interfere with this class
+        
+* I will offer suggestions on this during office hours
         
 
 
 
 ## Course Policies: Communications
 
+- Face-to-face is the best communication
+
+## Course Policies: Communications
+
+- Face-to-face is the best communication:
+
+        - Office hours are your main communication to me outside class
+
+## Course Policies: Communications
+
+- Face-to-face is the best communication:
+
+        - Office hours are your main communication to me outside class
+        - There will be a question period every class
+
+## Course Policies: Communications
+
+- Face-to-face is the best communication:
+
+        - Office hours are your main communication to me outside class
+        - There will be a question period every class
+        - Any important announcements will always be made in class
+
+## Course Policies: Communications
+
+- Face-to-face is the best communication:
+
+        - Office hours are your main communication to me outside class
+        - There will be a question period every class
+        - Any important announcements will always be made in class
+
+## Course Policies: Communications
+
+- Face-to-face is the best communication
+- Announcements: Canvas
+
+        - Since class cancellations can't be announced in class, you'll find them here if they happen
+        - These are a good written place for recording important information
+        
+        
+## Course Policies: Communications
+
+- Face-to-face is the best communication
 - Announcements: Canvas
 - Email announcements
 
         - go to your official @cougarnet.uh.edu email address
 
+## Course Policies: Communications
+
+- Face-to-face is the best communication
+- Announcements: Canvas
+- Email announcements
 - Emails to me - to ensure your privacy! - must:
 
         - come from your official @cougarnet.uh.edu email address
         - come to my official tlhanna@central.uh.edu email address
-        - Canvas messages will NOT be answered, except Gradebook messages
+        
+## Course Policies: Communications
 
-- Face-to-face is the best communication:
+- Face-to-face is the best communication
+- Announcements: Canvas
+- Email announcements
+- Emails to me - to ensure your privacy! - must:
 
-        - Office hours are your main communication outside class
-        - There will be a question period every class
+        - come from your official @cougarnet.uh.edu email address
+        - come to my official tlhanna@central.uh.edu email address
+        
+- Canvas messages will NOT be answered, except Gradebook messages
+
+
 
 
 ## Course Policies: Late Work and Makeups
@@ -201,6 +469,9 @@ format:
         - No need to apologize or explain
         - All work must be turned in by the 26th of November
         
+## Course Policies: Late Work and Makeups
+
+- Late work is automatically accepted with penalty      
 - Makeups for exams
 
         - The final is your makeup
@@ -208,22 +479,54 @@ format:
         - No excuses, no exceptions
         - This is completely automatic
         - Let your grandmothers know their lives are safe from this class!
-        
+
+
+## Course Policies: Late Work and Makeups
+
+- Late work is automatically accepted with penalty      
+- Makeups for exams - the final is the makeup, automatic
 - Makeup for quizzes, participation exercises, etc.
 
         - I will drop three participation scores
         - No makeups, no exceptions
+        
+## Course Policies: Late Work and Makeups
+
+- Late work is automatically accepted *with penalty*
+- Makeups for exams - the final is the makeup, automatic!
+- Makeup for quizzes, participation exercises, etc. - Three dropped, no makeups!
 
 ## Course Policies: Attendance and Participation
 
-- Participation points will be from quizzes, surveys, and other activities using the Clicker/Point Solutions software. You must be present! No sharing of access codes!
+- Participation points will be from quizzes, surveys, and other activities using the Clicker/Point Solutions software. 
+- I will refer to all of these collectively as *participation exercises*.
+
+
+## Course Policies: Attendance and Participation
+
+- For participation exercises, you must be physically present in the classroom! 
+- No sharing of access codes!
+- Sharing of access codes is an academic integrity violation and will be treated as such
+
+## Course Policies: Attendance and Participation
 
 - I will take location-based attendance periodically with the Clicker/Point Solutions software
 
         - There will be some extra credit available for those who miss less than three days of class
+        - This is extra credit. You do it or you don't. No excuses policy applies 100 times as much!
         - UH now requires us to track attendance for financial aid purposes; you can be required to repay financial aid if you fail a course and did not attend
 
+## Course Policies: Attendance and Participation
+
 - I will cross reference the location based attendance with participation exercises to prevent academic dishonesty.
+- If an access code is shared, at least one of the parties will be referred to a hearing with a recommendation that they fail the course and be suspended.
+- If the person caught using the code comes clean, it will be the person sharing the code.
+
+## Course Policies: Attendance and Participation
+
+- Must be present in class for participation exercises
+- Location based attendance with Clicker/PointSolutions
+- Some extra credit for good attendance 
 
 
 ## Course Policies: Academic Integrity
@@ -257,8 +560,9 @@ You are responsible for following the full UH Academic Integrity Policy
 - Inquizitive Exercises (Textbook or Chapter assignments): 25%
 - Two Midterm Exams (60 points each) and one Final Exam (75 points): 50%
 
+## Major course expectations - revisit
 
-
+I sincerely hope that all of you will succeed in this course, but UH and I are not in the business of selling grades and degrees. You will get out of this course what you put into it, both in learning and your final grade.
 
 
 ## Questions

@@ -1,0 +1,537 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Philosophies and Ideologies in American Government
+author: ", Instructor: Tom Hanna, Fall 2024, University of Houston"
+date: August 26, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+Today 
+
+        - PAWS Up Weekly Announcements
+        - Walkthrough of CASA registration
+        - Questions
+        - Philosophies and Ideologies in American Government: What is the proper limit on government?
+        
+Wednesday
+
+        - Look at Inquizitives (chapter assignments) and the e-book
+        - Clicker/Point Solutions registration
+        - Questions
+        - Philosophies and Ideologies in American Government: What was the early American answer?
+      
+# CASA Registration, Etc.  
+
+## CASA Registration
+
+- AccessUH - CASA "Courseware"- This is not it
+
+## CASA Registration
+
+- AccessUH - CASA "Courseware"- This is not it
+- Canvas: CASA Scheduling? NOT YET!
+
+## CASA Registration
+
+- AccessUH - CASA "Courseware"- This is not it
+- Canvas: CASA Scheduling? NOT YET!
+- Canvas: MODULES
+
+## CASA Registration
+
+- AccessUH - CASA "Courseware"- This is not it
+- Canvas: CASA Scheduling? NOT YET!
+- Canvas: MODULES - Introduction and Syllabus Quiz
+
+## CASA Registration
+
+- AccessUH - CASA "Courseware"- This is not it
+- Canvas: CASA Scheduling? NOT YET!
+- Canvas: MODULES - Introduction and Syllabus Quiz
+
+        - Look for CASA information
+        - CASA Rules
+        
+## CASA Registration
+
+CASA Rules will take you the testing center home page
+
+- Courseware
+- I don't have an account
+- register with First Name, Last Name, Student ID (PeopleSoft ID)
+- follow instructions to register biometrics at the testing center
+- Closest one is in Classroom and Business Building
+CBB - Building 499.  
+
+        
+## CASA Test reservations
+
+- These are now done through CANVAS
+- You can reserve starting 14 days before the exam date
+- Until then it will show nothing
+- Reserve your time slot early, there is limited seating
+
+## Clicker/PointSolutions
+
+## Questions
+
+# Philosophies and Ideologies in American Government
+
+## Review - What is government?
+
+- Legitimate
+
+- Organized
+
+- Armed
+
+- Coercive
+
+- Force or Violence
+
+## What do these lack that government has?
+
+- Churches
+- Families
+- Charities 
+- Businesses
+- Volunteer Groups
+- Community Associations
+- even groups of friends or casual acquaintances
+
+## They all have:
+
+- organization
+- leadership
+- money
+- rules
+- goals
+
+## Some may even have
+
+- charters
+- voting
+- hierarchical structures
+
+## They lack:
+
+legitimate use of violence
+
+
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+
+        - This is the main topic today
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+
+        - This is the main topic today
+        - When we look at Constitutions, this is most related to the lists of government powers especially legislative powers
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+        - This is central to the next topic, the structure of government
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+        - This is central to the next topic, the structure of government
+        - This is most related to the separation of powers and checks and balances
+        
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+        - This is central to the next topic, the structure of government
+        - This is most related to the separation of powers and checks and balances
+        - This is also related to the separation of powers between the federal and state governments: federalism
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+        - This is central to the next topic, the structure of government
+        - This is most related to the separation of powers and checks and balances
+        - This is also related to the separation of powers between the federal and state governments: federalism
+        - This is also a key factor in the demand for a Bill of Rights and the 14th Amendment
+        
+## Understanding American Constitutional Development
+
+Two basic concepts:
+
+1 - What is the proper purpose of government?
+2 - How do we limit government to only those purposes?
+
+        - This is central to the next topic, the structure of government
+        - This is most related to the separation of powers and checks and balances
+        - This is also related to the separation of powers between the federal and state governments: federalism
+        - This is also a key factor in the demand for a Bill of Rights and the 14th Amendment
+        - A key enforcement idea here is judicial review and the power of the Courts
+        
+
+## Philosophies of Government in America
+
+Questions:
+
+1. What were the early ideas about government in America?
+2. What drove those ideas?
+3. How did those ideas develop and what other ideas became important?
+
+
+## Early ideas about government in America
+
+::: {style="font-size: 3em;"}
+Focused on limits on the power of government? Why?
+:::
+
+## Philosophies of Government in America
+
+::: {style="font-size: 3em;"}
+Appropriate limits to the legitimate use of organized violence
+:::
+
+
+## Philosophies of Government in America
+
+::: {style="font-size: 3em;"}
+Enlightenment philosophy of Classical liberalism
+:::
+
+## Organized Violence and the Proper Role of Government
+
+::: {style="font-size: 3em;"}
+Given that government's unique tool is the organized use of coercive physical force or violence, what are legitimate uses of that tool?
+:::
+
+## Organized Violence and the Proper Role of Government
+
+- One relatively common concept is that government gets its powers on loan from the people for the common defense. It's just a pooling of individual rights and powers for the common good.
+
+So....
+
+
+## Organized Violence and the Proper Role of Government
+
+::: {style="font-size: 3em;"}
+What are legitimate uses of violence for individuals or small groups?
+:::
+
+## Organized Violence and the Proper Role of Government
+
+- Pooled defense - no extra powers
+- Monopoly on violence: State has extra responsibilities and therefor has extra powers derived from its responsibilities.
+
+## Organized Violence and the Proper Role of Government
+
+- Pooled defense - no extra powers
+- Monopoly on violence/State Responsibility
+- Various forms of extreme state power
+
+        - divine right of kings
+        - totalitarianism
+        - militant democracy
+        - theocracy
+
+
+
+## Organized Violence and the Proper Role of Government
+
+::: {style="font-size: 3em;"}
+What are legitimate uses of organized coercive violence? 
+:::
+
+## Legitimate goals of government
+
+Protection of fundamental rights
+
+        - life
+        
+## Legitimate goals of government
+
+Protection of fundamental rights
+
+        - life
+        - liberty
+        
+        
+## Legitimate goals of government
+
+Protection of fundamental rights
+
+        - life
+        - liberty
+        - pursuit of happiness
+        
+        
+## Legitimate goals of government
+
+Protection of fundamental rights
+
+        - life
+        - liberty
+        - pursuit of happiness
+        - property (product of labor = product of life and liberty)
+
+## Defining limits on government force
+
+Most restrained
+
+        - Pacifism
+        - Non-aggression principle    
+
+Moderate restraint
+
+        - Minimalist Violence 
+        - Constitutional Limits on Violence
+        - Social contract theory
+        - Humanitarian intervention (maybe)
+
+Expansive power
+
+        - Humanitarian intervention (maybe)
+        - Militant democracy
+        - Realpolitik/Pragmatic statecraft
+        - Theocracy
+        - Totalitarianism
+
+
+
+
+## Defining limits on government force
+
+- Pacifism
+
+## Defining limits on government force
+
+Pacifism: violence is never legitimate
+        
+## Defining limits on government force
+
+Pacifism: violence is never legitimate
+
+- anarchism 
+- 100% consensual government (no government?)
+        
+
+        
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle
+
+## Defining limits on government force
+
+Non-aggression principle: violence is only legitimate in self defense or the defense of another's life, liberty, and property (product of labor)
+
+- libertarianism
+- minarchism
+
+
+        
+        
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle   
+
+## Defining limits on government force
+
+Minimalist Violence (Charles Krauthammer): The idea that "it is the mark of a civilized society to maintain organized violence at the lowest possible level," using force only when absolutely necessary to maintain order, protect the rights of citizens, and perform agreed upon functions.
+
+        - may be associated with social contract theory, constitutional limits on violence, and humanitarian intervention
+        - The key is that whatever the goal, it should be achieved at the lowest level of coercion possible.
+
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+
+
+## Defining limits on government force
+
+Constitutional Limits on Violence: "Constitutional Restraint" or "Limited Sovereign Coercion"
+
+        - The notion that the use of force by the government should be strictly limited by a constitution, whether formal or informal, which outlines when and how the government may act.
+        
+## Defining limits on government force
+
+Constitutional Limits on Violence: "Constitutional Restraint" or "Limited Sovereign Coercion"
+
+        - The notion that the use of force by the government should be strictly limited by a constitution, whether formal or informal, which outlines when and how the government may act.
+        - James Buchanan, Nobel prize winning economist and constitutional theorist, argued that setting the Constitutional limits should be done with near unanimity, while "ordinary politics" can be done with majority rule or other agreed standards. (We will return to this idea when considering why we don't just disregard the Constitution when it is inconvenient.)
+        - This is closely related to social contract theory, but constitutional constraints are more specific and formal than the general principles of social contract theory.
+        
+
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+
+## Defining limits on government force
+
+Social contract theory: Individuals consent to give up some freedom (submit to some coercion) in exchange for protection of their rights. 
+
+        - Thomas Hobbes, argued that the social contract is necessary to prevent the "war of all against all" and that the government should have nearly unlimited power to prevent this.
+        - John Locke, argued that there are still basic rights not subject to coercion and people have the right to revolt against a government that violates these rights.
+        - Jean-Jacques Rousseau, argued that the social contract should be based on the "general will" of the people, which is not the same as the majority will.
+        - The social contract is a fictional construct, not an actual document or group of documents like a Constitution.
+   
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+- Humanitarian intervention
+
+## Defining limits on government force
+
+Humanitarian intervention: 
+
+        - preventing or stopping human rights abuses
+        - large scale action in natural disasters
+        - coercive action to correct or prevent economic crises
+        - scale redistribution of wealth or other resources to prevent suffering or promote equality.
+        - may include military intervention in other countries.
+        
+
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+- Humanitarian intervention
+- Militant democracy
+
+## Defining limits on government force
+
+Militant democracy: suppression of political opponents perceived or labeled as threats to democracy
+
+        - The idea that it is legitimate for a government to use force to prevent the rise of anti-democratic forces or to suppress political movements that threaten the democratic system.
+        - Often used to justify the suppression of political parties or movements that are seen as a threat to democracy.
+        - May actually be suppression of threats to the established party system. 
+        
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+- Humanitarian intervention
+- Militant democracy
+- Realpolitik/Pragmatic statecraft
+
+
+## Defining limits on government force
+
+Realpolitik/Pragmatic statecraft: Pragmatic results matter more than idealism
+
+        - The government should use force to pursue its national interests, regardless of moral considerations.
+        - Often used to justify military intervention in the affairs of other states, or the use of force to protect the economic interests of the state.
+        - May be used to justify the use of force to suppress dissent or to maintain the power of the ruling party.
+        - Order is more important than justice or rights.
+        
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+- Humanitarian intervention
+- Militant democracy
+- Realpolitik/Pragmatic statecraft
+- Theocracy
+
+## Defining limits on government force
+
+Theocracy: government derives its powers from a diving mandate
+
+        - Use of force is morally justified for any reason chosen by the divinely mandated rulers. 
+        - Often used to justify the use of force to suppress dissent or to enforce religious laws.
+        - Still not completely unlimited, as ideals of the religion may still limit the actions of the rulers.
+        
+## Defining limits on government force
+
+- Pacifism
+- Non-aggression principle        
+- Minimalist Violence 
+- Constitutional Limits on Violence
+- Social contract theory
+- Humanitarian intervention
+- Militant democracy
+- Realpolitik/Pragmatic statecraft
+- Theocracy
+- Totalitarianism
+
+## Defining limits on government force
+
+Totalitarianism: unlimited power over all aspects of life.
+
+        - The idea that the government should have unlimited power to control all aspects of society, including the use of force to suppress dissent and maintain control.
+        - Often used to justify the use of force to maintain the power of the ruling party or to enforce ideological conformity.
+        - Government rule extends into all aspects of life, including the private sphere even the home and family. 
+        
+
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

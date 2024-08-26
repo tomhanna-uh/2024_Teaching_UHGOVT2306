@@ -1,0 +1,340 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Course Introduction
+author: ", Instructor: Tom Hanna, Fall 2024, University of Houston"
+date: August 21, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+## Agenda Today
+
+1 Announcements
+2 PAWS Up Announcements
+3 Course Overview
+4 Introduction to the Topic of Government
+5 Walkthrough of Clicker/Point Solutions, Canvas Modules, and AccessUH
+6 Questions and Answers
+
+## Announcements
+
+1 - No one is in any kind of trouble for GroupMes that were setup
+2 - Related to the above, question for the class:
+
+Would you like to have one official GroupMe for the class where I will post reminders and announcements? We can also use Microsoft Teams for this purpose, but there seems to be a strong preference for GroupMe.
+
+You can use it for study groups, getting notes if you miss class, etc. 
+
+## PAWS Up Announcements
+
+## Course Overview
+
+- The Constitution and politics of the American federalist system and the state of Texas
+
+- Federal government
+
+        - Constitutional principles
+        - Federalism
+        - Separation of powers
+        - Civil liberties
+        - Civil rights
+        - Political participation
+        - The Constitutional delegation of powers to the three branches of government
+        - The role of the states in the federal system
+
+
+## Course Overview
+
+- The Constitution and politics of the American federalist system and the state of Texas
+
+- Federal government
+
+- State of Texas 
+
+        - Texas Constitutions 
+        - Texas political culture
+        - Texas political participation
+        - Texas political parties
+        - Texas elections
+        - Delegation of powers in the Texas Constitution
+        - Some comparison to the federal government
+        - Some comparisons to other states
+        
+## Introduction to Government
+
+::: {.custom-style style="font-size: 80px;"}
+To really understand government and politics we first need to know what those things are. 
+:::
+
+## Introduction Government: Questions to consider
+
+:::{.custom-style style="font-size: 80px;"}
+What is government or "The State"?
+:::
+
+## Introduction Government: Questions to consider
+
+
+::: {.custom-style style="font-size: 80px;"}
+What makes government or The State different from other organizations?
+:::
+
+## Introduction Government: Questions to consider
+
+:::{.custom-style style="font-size: 80px;"}
+What is politics?
+:::
+
+
+
+## What is The State?
+
+:::{.custom-style style="font-size: 80px;"}
+We can compare the government or the state to other organizations and see what is different about it.
+:::
+
+
+## Other organizations
+
+- Family
+
+        - What does it have in common?
+        - What is different?
+
+
+## Other organizations
+
+- Family
+- Church
+
+        - What does it (government) have in common?
+        - What is different?
+
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+
+        - What does it have in common?
+        - What is different?
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+
+        - What does it have in common?
+        - What is different?
+
+
+
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses - The Market
+
+        - What does it have in common?
+        - What is different?
+        
+
+## Other organizations
+
+- Organized crime
+
+        - What does it have in common?
+        - What is different?
+
+## Other organizations
+
+- Organized crime
+- vigilantes
+
+        - What does it have in common?
+        - What is different?
+
+
+## Other organizations
+
+- Organized crime
+- vigilantes
+- terrorists
+
+        - What does it have in common?
+        - What is different?
+
+
+
+## What is "the state"?
+
+**The organized, coercive use of violent force commonly accepted as legitimate** 
+
+- Coercive use of violent force
+- Legitimacy
+        
+
+## Introduction Government: Questions to consider
+
+:::{.custom-style style="font-size: 80px;"}
+What is politics?
+:::
+
+
+## Introduction Government: Questions to consider
+
+:::{.custom-style style="font-size: 80px;"}
+What is politics?
+:::
+
+:::{.custom-style style="font-size: 60px;"}
+Your thoughts?
+:::
+
+
+
+## What is politics? 
+
+
+- **Politics is the process of making collective decisions in the context of...**
+
+## What is politics? 
+
+
+- **Politics is the process of making collective decisions in the context of...**
+
+The State or government.
+
+
+## The difference between politics and everything else
+
+These organizations all engage in collective action, but lack one thing the state has: 
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses - The Market
+
+
+
+## The difference between politics and everything else
+
+These organizations all engage in collective action, but lack one thing the state has: 
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses - The Market
+
+**Coercive use of violent force**
+
+
+## Studying other organizations
+
+Family, church, the market, etc. are all about making collective decisions in: 
+
+**The Voluntary Sphere**
+
+## Politics is about
+
+Making collective decisions in:
+
+**The Coercive Sphere**
+
+
+## What is politics? Another aspect
+
+When you think about politics, what are some words or phrases that come to mind?
+
+
+
+
+## What is politics? Another aspect
+
+- **Expensive or involves large amounts of money**
+- **Distant**
+- **Involves politicians or campaigns**
+- **involves voting or decision making**
+- **Involves rights**
+- **National borders**
+- **Controversial**
+
+
+## What is politics
+
+![Metro rail](metrorail.jpg){width="55%"} ![PGH Hall at University of Houston](pgh-hall.jpg){width="40%"}
+
+![Houston Public Works](houston-public.png){width="65%"}
+
+## What is politics
+
+- I took a Lyft this morning on city owned road to HCC Central Campus where I taught a class in a federal, state, and county funded community college. 
+- When I finished there, I rode Metrorail to the TSU/UH Athletic District stop
+- I walked to my desk in the taxpayer funded, University of Houston campus
+- Now we're all here in this room funded mostly by tax dollars, directly or indirectly
+
+     
+
+## What is politics? 
+
+- **Not distant** 
+- **immediate,right here**
+- **touches everything**
+- **direct impacts are constant**
+- **involves all of us**
+- **It can be expensive, but it's not always about money**
+
+## Politics is powerful
+
+- Immense power to achieve good ends 
+- Immense power to do incredible harm
+
+
+## Politics is powerful
+
+![George Washington](washington_quote.jpg){width="50%"}
+
+
+## Politics is powerful
+
+![Frederick Douglass](power_fredrick_douglass.jpg){width="50%"}
+
+## Questions and Answers
+
+Q&A on the topic 
+(We'll do Q&A on course stuff later)
+
+## Walkthrough of Clicker/Point Solutions, Canvas Modules, and AccessUH
+
+Anyone who has already registered their account and has no questions about Clicker/Point Solutions, Canvas, or AccessUH is excused **if you are absolutely sure you won't need help later**!
+
+
+## Questions and Answers
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
