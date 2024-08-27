@@ -1,0 +1,435 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Early American Political Thought
+author: ", Instructor: Tom Hanna, Fall 2024, University of Houston"
+date: August 28, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Agenda
+
+## Agenda 
+
+- Today
+
+        - Announcements: Tutoring and Extra Credit
+        - Look at Inquizitives (chapter assignments) and the e-book
+        - Clicker/Point Solutions registration
+        - Questions
+        - Philosophies and Ideologies in American Government: What was the early American answer?
+        
+- September 2 - Labor Day Holiday - Have fun!
+- September 4 - No Class meeting: Things to finish
+
+        - Register at CASA
+        - Pick up Clicker/Point SOlutions code at bookstore and register
+        - Finish Introduction and Syllabus Quiz Module in Canvas
+        - Get started on Chapter 1 and 2 Inquizitives
+        
+# Announcements
+
+## Announcements: Tutoring
+
+- September 9th, 1 PM, Dr. Heidel from Launch Tutoring will be here to talk about everything LAUNCH has to offer you
+
+-  LAUNCH, the campus Learning Center, has drop-in individual peer tutoring for GOVT 2306.
+
+- [Launch information and schedule](https://ussc.uh.edu/lss/tutoring.aspx)
+- [Launch Fall Brochure](https://canvas.uh.edu/courses/14000/files/4350152?module_item_id=1307166) - Must be logged into Canvas
+
+## Announcements: Extra Credit Opportunities
+
+- Two virtual events from UH Department of Political Science
+- Attendance will be taken by the department
+- Must sign up in advance - limited seating - first come, first served
+- Approximately equal to two final exam questions
+
+
+## Announcements: Extra Credit Opportunities
+
+1. [Presidential election webinars with UH Faculty](https://canvas.uh.edu/courses/14000/modules/items/1307188) - PDF file, must be logged into Canvas
+2. [Former Members of Congress webinar with two former Congressmen](https://canvas.uh.edu/courses/14000/modules/items/1307185)_ - Opens in PowerPoint, must be logged into Canvas
+
+# Inquizitives and E-book
+
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+
+        - Illumine is not graded
+        - You can see they have no due date
+
+
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        - After the Canvas due date, you lose 10% per day
+
+
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        - After the Canvas due date, you lose 10% per day        
+        - What about "Grades Accepted Until: November 26, 2024" 11:59 PM Central Time" - What does that ACTUALLY mean?
+        
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        - After the Canvas due date, you lose 10% per day        
+        - What about "Grades Accepted Until: November 26, 2024" 11:59 PM Central Time" - What does that ACTUALLY mean?
+        - You can turn in work until 10 days after the Canvas due date with penalty
+        
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        - After the Canvas due date, you lose 10% per day        
+        - What about "Grades Accepted Until: November 26, 2024" 11:59 PM Central Time" - What does that ACTUALLY mean?
+        - You can turn in work until 10 days after the Canvas due date with penalty
+        - After 10 days late, you can still use Inquizitives to review up until November 26 (the Final Exam)
+        
+## Inquizitives and E-book
+
+- Open in Canvas through [Modules](https://canvas.uh.edu/courses/14000/modules)
+- Illumine is the link to just read the e-book
+- Inquizitives are the chapter assignments in the e-book
+
+        - Inquizitives are graded
+        - You can see they have due dates in Canvas
+        - After the Canvas due date, you lose 10% per day        
+        - What about "Grades Accepted Until: November 26, 2024" 11:59 PM Central Time" - What does that ACTUALLY mean?
+        - You can turn in work until 10 days after the Canvas due date with penalty
+        - After 10 days late, you can still use Inquizitives to review up until November 26 (the Final Exam)
+        - you can not turn in any work after I start doing final grades on November 26
+        
+# Early American Political Thought
+
+## Review
+
+- Government is the organization that has a legitimate monopoly on the coercive use of force in a given territory
+
+## Review
+
+- Government is the organization that has a legitimate monopoly on the coercive use of force in a given territory
+- Politics is the process of making collective decisions in the context of the state (the coercive sphere)
+
+## Review
+
+- Government is the organization that has a legitimate monopoly on the coercive use of force in a given territory
+- Politics is the process of making collective decisions in the context of the state (the coercive sphere)
+- Given that government's unique tool is violence or force, views on the limits on government range from pacifist-anarchism to totalitarianism
+
+## Review
+
+- Government is the organization that has a legitimate monopoly on the coercive use of force in a given territory
+- Politics is the process of making collective decisions in the context of the state (the coercive sphere)
+- Given that government's unique tool is violence or force, views on the limits on government range from pacifist-anarchism to totalitarianism
+- In the middle range are constitutionally limited government and social contract theory, which are the basis of the American political system
+
+## Review
+
+::: {style="font-size: em;"}
+Two reasons we went through all that:
+:::
+
+::: {style="font-size: 2em;"}
+Background for understanding American political development and...
+:::
+
+## Review
+
+::: {style="font-size: 2em;"}
+What do we as individuals believe are legitimate uses of government's one unique tool?
+:::
+
+## Review
+
+::: {style="font-size: 2em;"}
+When we say, "there ought to be a law" what are we **really** saying?
+:::
+
+
+## Review
+
+::: {style="font-size: 1.5em;"}
+"There ought to be a law" means:
+:::
+
+::: {style="font-size: 2em;"}
+Men and women with guns should go make people do this whether they want to or not.
+:::
+
+
+
+## Review
+
+Two reasons we went through all that:
+
+
+1. Background for understanding American political development
+2. To examine our own beliefs about what uses of government power we approve of, will vote for, and may even advocate for
+
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through.,,
+        
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through...
+        - Jamestown (1607)...
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through...
+        - Jamestown (1607)...
+        - The Mayflower Compact (1620)...
+        
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through...
+        - Jamestown (1607)...
+        - The Mayflower Compact (1620)...
+        - Rhode Island and Providence Plantations (1636-1663)...
+        
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through...
+        - Jamestown (1607)...
+        - The Mayflower Compact (1620)...
+        - Rhode Island and Providence Plantations (1636-1663)...
+        - Virginia Declaration of Rights (1776)...
+        
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation from
+
+        - The Iroquois Confederacy (1450-1600) through...
+        - Jamestown (1607)...
+        - The Mayflower Compact (1620)...
+        - Rhode Island and Providence Plantations (1636-1663)...
+        - Virginia Declaration of Rights (1776)...
+        - Declaration of Independence (1776)...
+        - Articles of Confederation (1777)...
+        
+
+## Early American Political Thought: Why do we care?
+
+- The Constitution gave us a system to limit official violence  
+- Started with  the political thought of early America
+- Reflected gained experience from the political experimentation
+- The system wasn't perfect and the Articles were replaced by the Constitution as one in a long line of improvements
+
+
+
+
+## Early American Political Thought: Shared concepts
+
+
+- Influenced by the Enlightenment
+
+        - Reason
+        - Progress is possible
+
+## Early American Political Thought: Shared concepts
+
+
+- Influenced by the Enlightenment
+- Influenced by the English Civil War and Glorious Revolution
+
+        - Limited government
+        - Rule of law
+        - Individual rights
+
+
+## Early American Political Thought: Shared concepts
+
+
+- Influenced by the Enlightenment
+- Influenced by the English Civil War and Glorious Revolution
+- Shared Classical Liberal Ideals
+
+        - Equality before the law
+        - Liberty
+        - Property rights
+        
+        
+
+## Early American Political Thought: Shared concepts
+
+
+- Influenced by the Enlightenment
+- Influenced by the English Civil War and Glorious Revolution
+- Shared Classical Liberal Ideals
+- Generally agreed on the need for limited government
+
+
+
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+
+        - increased some central government power
+        
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+
+        - increased some central government power
+        - set strict limits on that power in writing
+        
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+
+        - increased some central government power
+        - set strict limits on that power in writing
+        - Almost immediately amended to include a Bill of Rights! (progress!)
+        
+        
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+
+        - increased some central government power
+        - set strict limits on that power in writing
+        - Almost immediately amended to include a Bill of Rights! (progress!)
+        - Experiment! According to Madison "new science of politics" would prevent abuse of power
+        
+        
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+- The system was not perfect
+
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+- The system was not perfect
+- Improvement required understanding the system to understand problems...
+
+## Early American Political Thought: Not perfect
+
+- Enlightenment ideas were based on reason and progress
+- The move from Articles of Confederation to Constitution reflected this belief in progress
+- The system was not perfect
+- Improvement required understanding the system to understand problems...
+
+## Early American Political Thought
+
+::: {style="font-size: 2em;"}
+Improvement still requires understanding the system to understand problems and solutions
+:::
+
+
+## Early American Political Thought: Improving the System
+
+Next time we will discuss both obvious and less obvious flaws in the system, how they have been addressed over time, and how we can continue to address them in the future.
+
+
+
+
+        
+
+## Authorship and License
+
+Do not share to Chegg, Coursehero, or similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

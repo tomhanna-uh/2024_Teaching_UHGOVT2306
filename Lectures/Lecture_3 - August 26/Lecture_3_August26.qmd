@@ -238,7 +238,7 @@ Enlightenment philosophy of Classical liberalism
 
 ## Organized Violence and the Proper Role of Government
 
-::: {style="font-size: 3em;"}
+::: {style="font-size: 2em;"}
 Given that government's unique tool is the organized use of coercive physical force or violence, what are legitimate uses of that tool?
 :::
 
@@ -527,6 +527,8 @@ Totalitarianism: unlimited power over all aspects of life.
 
 
 ## Authorship and License
+
+Do not share to Chegg, Coursehero, or similar commercial websites.
 
 - Author: Tom Hanna
 
