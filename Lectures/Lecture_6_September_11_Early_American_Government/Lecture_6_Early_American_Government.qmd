@@ -1,0 +1,468 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Ideals of early American Government
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: September 11, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today
+
+        - Announcements
+        - Clicker/Point Solutions
+        - Early American Government
+        
+- Monday
+
+        - The Constitution: Checks and Balances, Separation of Powers, and Federalism
+        
+        
+
+## Announcements
+
+- Exam 1 is September 23 to 26 **in person** at the **CASA testing center** in Classroom and Business Building (CBB)
+- Exam 1 registration is available now in Canvas.
+
+![CASA registraion in Canvas](casa_canvas.png)
+
+
+## Clicker/Point Solutions: Get Code
+
+- If you are in the CTAP program: 
+
+        - you must go to the bookstore to pick up a PointSolutions (PS) subscription card/code.  You can enter this PS code when creating your PS account.  See the tutorial below. 
+
+- If you are opted out of the CTAP program: 
+
+        - you can purchase a subscription ($41.50/year) at UH bookstore, ISBN: 9781934931714, or Echo 360 website ($34.99/year) or ($24.99/term) after creating your PointSolutions account.  
+        
+UH Campus Store:
+Suite 130, University Center, Houston, TX 77204
+Phone: 346-331-9695"
+
+[Get your code](https://uh.edu/fdis/technology/turningpoint-eight/students/purchase-clicker-or-turning-license/)
+
+## Clicker/Point Solutions: Existing Account
+
+- Current students who used PointSolution (Turning) before:
+
+        -  All of your PointSolutions account  information will automatically copy from the previous semester. However, you must log in to your account to check if your subscription is valid.  
+        - If you are in the CTAP program, you must go to the bookstore to pick up a PointSolutions (PS) subscription card/code. 
+        - If you are opted out of the CTAP program and your subscription is expired, you must purchase another subscription.
+        
+- In Canvas, click on "PointSolutions Registration"
+- sign in with your existing account if needed
+- Select the course
+        
+
+
+
+## Clicker/Point Solutions: Create Account
+
+- In Canvas, click on "PointSolutions Registration"
+- Find: "Don't have an account? Get started here."
+
+
+
+
+# Overview 
+
+        - Ideals in early American Government?
+        - Missing the Ideal
+        - Evolution of American Government
+        - Thinking about solutions: what is still wrong? what is right?
+
+# Ideals in early American Government?
+
+
+## Purpose and Dangers of Federal Government
+
+The overall questions common to all people is:
+
+- What is the purpose of government?
+- What are the dangers of government?
+
+
+## The starting point: 1775 - 1783
+
+- Every other major government was a monarchy
+
+
+
+## The starting point: 1775 - 1783
+
+- Every other major government was a monarchy
+- Monarchies tend to accumulate power, to become corrupt and abusive
+
+
+## The starting point: 1775-1783
+
+::: {.custom-style style="font-size: 80px;"}
+The American colonies threw off the monarchy 
+::: 
+
+
+## The starting point: 1775-1783
+
+::: {.custom-style style="font-size: 120px;"}
+First step!
+:::
+
+This was only a first step to achieving **classical liberal ideals** of self-government and freedom
+
+
+## The main tension in American politics
+
+::: {.custom-style style="font-size: 120px;"}
+Liberalism versus Authoritarianism
+:::
+
+
+
+## What is classical liberalism?
+
+- Not modern American meaning of liberalism
+
+
+## What is classical liberalism?
+
+- Not modern American meaning of liberalism
+- Enlightenment (especially Scottish Enlightenment) liberalism
+
+
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+
+
+
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        
+        
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        - liberty
+        
+        
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        - liberty
+        - property
+
+
+## What is classical liberalism?
+
+::: {.custom-style style="font-size: 120px;"}
+What about the pursuit of happiness?
+:::
+
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+- Individual empowerment
+
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+- Individual empowerment
+- To pursue happiness
+
+
+
+## What is classical liberalism?
+
+- Limiting government power is intended to remove the major obstacle to the pursuit of happiness.
+
+- A limited government that tries to provide happiness would need to accumulate power and would eventually become tyrannical.
+
+
+
+## What is classical liberalism?
+
+- Classical liberalism favors self-government: maximizing consent and minimizing coercion
+
+
+
+
+
+## What is classical liberalism?
+
+- Classical liberalism favors self-government: maximizing consent and minimizing coercion
+- Authoritarianism favors centralized power: the use of violent coercion to compel compliance with authority
+
+
+
+## Liberal vs Authoritarian
+
+- Liberalism: freedom from violent coercion, maximizing individual rights
+- Authoritarianism: security & conformity, maximizing collective power
+
+
+
+## What is self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+What is self-government?
+:::
+
+
+## What is self-government?
+
+What is self-government?
+
+Two parts:
+
+- individual's govern their own behavior
+
+
+## What is self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+Ability to act free from violent coercion is literally the individual governing one’s self
+:::
+
+## What is self-government?
+
+What is self-government?
+
+- Individual's govern their own behavior
+- **Participation in government**
+
+## What is self-government?
+
+- What is self-government?
+- Individual's govern their own behavior
+- Participation in government
+- **Both are radical departures from monarchy**
+
+
+## What is self-government?
+
+- What is self-government?
+- Ability to act free from violent coercion is literally every individual governing themselves
+- Participation in government is the other part
+- Both are radical departures from monarchy
+
+## How can we achieve self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+Splitting up power – to avoid any one person or group from becoming like a monarch or tyrant
+:::
+
+
+## How can we achieve self-government?
+
+Splitting up power was the primary focus of the American Founding after the Revolution
+
+    - State vs Federal
+    - Different branches of government
+    
+    
+
+## What about other issues?
+
+- The focus on splitting up power missed some other issues
+- Some of this was compromise
+
+    - 14 of the states were independent nations before becoming states
+    - Federal government needs enough power but not too much (Constitutional Convention)
+    - Preventing bad long-term decisions (Amendment process, Bill of Rights)
+
+
+
+
+
+# Missing the Ideal 
+
+## Why do we care?
+
+- What are the lessons for our own time?
+- What issues do we need to continue fixing?
+- Or do we throw it all out?
+
+
+## Early Problems with American Government
+
+- Slavery
+- Limited rights of women
+- Limited voting
+
+## Why were these problems?
+
+::: {.custom-style style="font-size: 120px;"}
+Aside from the moral question, **What was the big issue that all of these shared?**
+:::
+
+
+## Why were these problems?
+
+- **They conflict with classical liberal ideals!**
+
+
+## Why were these problems?
+
+- **They conflict with classical liberal ideals!**
+- **America was imperfect by its own standards**
+
+
+## America started out imperfect
+
+- **America was imperfect by its own standards**
+- **Some of this was compromise**
+
+
+
+## Slavery and Classical Liberal ideals
+
+- Slavery conflicts with the ideal of individual liberty
+
+
+
+## Slavery and Classical Liberal ideals
+
+- Slavery conflicts with the ideal of individual liberty
+- Slavery **conflicts with the basis of property rights**
+
+        - The basis of property rights is that individuals own themselves and their labor
+        - The product of their labor is their property
+        - Taking the product of someone else's labor other than by voluntary exchange is violating their right to property
+
+
+## Limited rights of women
+
+- Women's rights to own property were severely restricted
+- This **necessarily** restricted their liberty
+- There were explicit restrictions on women's liberty
+
+## Limited voting
+
+- Voting was
+
+    - Restricted to land owners
+    - Restricted by race
+    - Restricted by gender
+
+
+
+
+# Evolution of American Government
+
+## Moving forward
+
+- **Even A lot of the Founders recognized the problems**
+- **Evolution and future solutions were expected - Amendments**
+
+## How have some of these problems evolved?
+
+- Slavery 1865^[But this didn't resolve issues of race]
+- Property rights for women - 1900^[State by state]
+- Voting rights - 1865, 1920, 1969^[https://en.wikipedia.org/wiki/Timeline_of_voting_rights_in_the_United_States]
+
+
+
+# Thinking about solutions
+
+## Solutions? What is still wrong? What is right?
+
+
+- Work to fix remaining classical liberal imperfections? Rethink exact limits and role of government in a basically liberal framework?
+       
+        - Mainstream Republicans and Democrats
+
+
+## Solutions? What is still wrong? What is right?
+
+- Retain the liberal structure
+- Some other standard - some form of authoritarianism?
+
+        - Populism (Trumpism)
+        - Populist Socialism (Sanders)
+        
+- How much of the current structure remains? How much is safe to tinker with?
+
+
+## Solutions? What is still wrong? What is right?
+
+- New problem: Massive new restrictions on individual empowerment at the federal level
+
+        - Surveillance state
+        - Censorship of speech and assembly
+        - Economic restrictions
+        - Political restrictions
+        - Social restrictions 
+        - Cultural restrictions
+        - Educational restrictions
+        - Health restrictions
+        - Environmental restrictions
+        - Technological restrictions
+        - Religious restrictions
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
