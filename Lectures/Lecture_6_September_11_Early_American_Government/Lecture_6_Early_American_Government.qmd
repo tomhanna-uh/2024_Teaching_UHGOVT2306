@@ -92,6 +92,7 @@ Phone: 346-331-9695"
 
 # Overview 
 
+
 ## Topics
 
         - Ideals in early American Government?
@@ -101,6 +102,14 @@ Phone: 346-331-9695"
 
 # Ideals in early American Government?
 
+
+## Purpose and Dangers of Federal Government
+
+The overall questions common to all people are:
+
+- What is the purpose of government?
+- What are the dangers of government?
+
 ## Answers
 
 A modern restatement of the philosophy of the Founding, Classical Liberalism:
@@ -109,15 +118,6 @@ A modern restatement of the philosophy of the Founding, Classical Liberalism:
 
 How can we live together in a society of dignified equals that allows individuals to fully maximize their own potential?
 :::
-
-
-
-## Purpose and Dangers of Federal Government
-
-The overall questions common to all people are:
-
-- What is the purpose of government?
-- What are the dangers of government?
 
 
 ## The starting point: 1775 - 1783
@@ -281,12 +281,12 @@ What is self-government?
 
 Two parts:
 
-- individual's govern their own behavior
+- individuals govern their own behavior
 
 
 ## What is self-government?
 
-::: {.custom-style style="font-size: 120px;"}
+::: {.custom-style style="font-size: 80px;"}
 Ability to act free from violent coercion is literally the individual governing one’s self
 :::
 
@@ -294,13 +294,13 @@ Ability to act free from violent coercion is literally the individual governing 
 
 What is self-government?
 
-- Individual's govern their own behavior
+- Individuals govern their own behavior
 - **Participation in government**
 
 ## What is self-government?
 
 - What is self-government?
-- Individual's govern their own behavior
+- Individuals govern their own behavior
 - Participation in government
 - **Both are radical departures from monarchy**
 
@@ -314,7 +314,7 @@ What is self-government?
 
 ## How can we achieve self-government?
 
-::: {.custom-style style="font-size: 120px;"}
+::: {.custom-style style="font-size: 80px;"}
 Splitting up power – to avoid any one person or group from becoming like a monarch or tyrant
 :::
 
@@ -348,6 +348,7 @@ Splitting up power was the primary focus of the American Founding after the Revo
 - What are the lessons for our own time?
 - What issues do we need to continue fixing?
 - Or do we throw it all out?
+
 
 ## Fredrick Douglass "Fourth of July" Speech
 
@@ -395,6 +396,7 @@ With them, nothing was “settled” that was not right. With them, justice, lib
 They were great in their day and generation. Their solid manhood stands out the more as we contrast it with these degenerate times.  How circumspect, exact and proportionate were all their movements! How unlike the politicians of an hour! Their statesmanship looked beyond the passing moment, and stretched away in strength into the distant future. They seized upon eternal principles, and set a glorious example in their defence. Mark them!
 
 
+
 ## Early Problems with American Government
 
 - Slavery
@@ -403,21 +405,25 @@ They were great in their day and generation. Their solid manhood stands out the 
 
 ## Why were these problems?
 
+Aside from the moral question,
+
 ::: {.custom-style style="font-size: 120px;"}
-Aside from the moral question, **What was the big issue that all of these shared?**
+**What was the big issue that all of these shared?**
 :::
 
 
 ## Why were these problems?
 
-- **They conflict with classical liberal ideals!**
-
+::: {.custom-style style="font-size: 120px;"}
+**They conflict with classical liberal ideals!**
+:::
 
 ## Why were these problems?
 
-- **They conflict with classical liberal ideals!**
-- **America was imperfect by its own standards**
 
+::: {.custom-style style="font-size: 120px;"}
+**America was imperfect by its own standards**
+:::
 
 ## America started out imperfect
 
@@ -479,9 +485,11 @@ Aside from the moral question, **What was the big issue that all of these shared
 ## Solutions? What is still wrong? What is right?
 
 
-- Work to fix remaining classical liberal imperfections? Rethink exact limits and role of government in a basically liberal framework?
+- Work to fix remaining (classical) liberal inconsistencies and contradictions? Rethink exact limits and role of government in a basically liberal framework?
        
-        - Mainstream Republicans and Democrats
+        - Traditional Republicans and Democrats
+        - Libertarians
+        - Forward Party 
 
 
 ## Solutions? What is still wrong? What is right?
@@ -489,10 +497,10 @@ Aside from the moral question, **What was the big issue that all of these shared
 - Retain the liberal structure
 - Some other standard - some form of authoritarianism?
 
-        - Populism (Trumpism)
-        - Populist Socialism (Sanders)
+        - Populist Economic Nationalism (Trumpism)
+        - Populist Socialism (Sanders, The Squad)
         
-- How much of the current structure remains? How much is safe to tinker with?
+- How much of the current structure should remain? How much is safe to tinker with? Increase or decrease liberalism (limits on power)?
 
 
 ## Solutions? What is still wrong? What is right?
@@ -510,7 +518,6 @@ Aside from the moral question, **What was the big issue that all of these shared
         - Environmental restrictions
         - Technological restrictions
         - Religious restrictions
-
 
 
 ## Authorship and License
