@@ -1,0 +1,244 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lecture 9: Civil Rights
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: September 30, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+- Today
+
+        - Announcements
+        - Exam Comments and Suggestions
+        - Exam Extra Credit (Point Solutions)
+        - Survey (Point Solutions)
+        - Civil Rights Introduction
+        
+- Wednesday
+
+        - Civil Rights
+        
+        
+## Announcements
+
+
+
+# Exam Comments and Suggestions
+        
+
+## Exam Comments
+
+- Median grade was a B- before the curve
+- Curve brings the median to a B
+- Most of the class has a B- or better total grade
+
+## Exam Comments
+
+- Practice Exam
+
+        - The practice exam with exact questions and answers has been popular before
+        - A lot of people seem to be wanting to copy the questions and answers, read them off paper instead 
+        - I'm going to give you an option AS A CLASS for the next exam (survey coming up)
+        
+- I saw comments in the GroupMe from a lot of people spending way too much time studying for this exam, so...
+
+
+## Exam Study Suggestions
+
+![forgetting curve](forgetting_curve.png)
+
+
+## Exam Study Suggestions
+
+- For the textbook - Study a little bit every day
+- Half as much time, spread out instead of crammed
+- Do the Inquizitive once
+ 
+        - Complete the whole Inquizitive
+        - Practice it for a short time the next day
+        - Practice it again in a couple of days
+        - Practice it again three days later
+
+- Do the next Inquizitive
+
+        - repeat
+        - at the end of week two, practice both Inquizitives
+        
+- Repeat for the next Inquizitive
+
+        - at the end of week three, practice all three Chapters
+        
+## For Lectures
+
+- Be here
+
+        - I review the previous days material 
+        - I review the way the unit's high points fit together
+        
+- Take notes
+
+        - I'm not going to give you a lot of detail on the slides
+        - Taking notes helps you remember
+        
+- Consider using a good notetaking system
+
+        - Cornell notes - This one is proven to work
+        - Outline notes
+        - Mind mapping
+        
+## Cornell Notetaking System
+
+- [Cornell notes](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)
+
+![Cornell](andy-bernard-the-office.gif)
+
+
+## Other Systems
+
+- [Outline notes](https://www.goodnotes.com/blog/outline-note-taking-method)
+
+- [Mind mapping](https://help.open.ac.uk/notetaking-techniques/mind-maps)
+
+## Notetaking systems
+
+- These systems are not just about taking good notes, but about organizing, rewriting, and reviewing them
+- You can also use them with the textbook, Inquizitive, and other materials
+
+## The Goal
+
+::: {.custom-style style="font-size: 80px;"}
+What's the goal?
+:::
+
+::: {.custom-style style="font-size: 80px;"}
+Take the exam and...
+:::
+
+## The Goal
+
+![NAIL IT!](nailed-it-the-office.gif)
+
+
+
+
+
+        
+## Civil Rights vs Civil Liberties
+
+
+::: {.custom-style style="font-size: 80px;"}
+What is the difference between Civil Rights and Civil Liberties?
+:::
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny 
+
+They protect individuals from abuse of the massive power of government to commit organized violence
+
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+
+- Civil rights protect individuals from discrimination
+
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+
+- Civil rights protect individuals from discrimination
+
+How are they related?
+
+
+## Civil Rights vs Civil Liberties
+
+What is the difference?
+
+- Civil liberties protect individuals from tyranny
+- Civil rights protect individuals from discrimination
+
+How are they related?
+
+Answer: Early civil rights were heavily focused on expanding basic liberties to those that had not been enjoying them. Ending *discrimination* in the application of civil liberties.
+
+
+## Civil Rights: Two approaches
+
+Martin Luther King, Jr.: I have a dream
+
+[I have a dream speech](https://www.marshall.edu/onemarshallu/i-have-a-dream/)
+
+
+## Civil Rights: Two approaches
+
+Malcolm X: By any means necessary
+
+[By any means necessary speech](https://www.youtube.com/watch?v=sNhQ1pm-ooc)
+
+
+## Civil Rights: Two approaches
+
+Malcolm X: Democracy is hypocrisy
+
+[Democracy is hypocrisy speech](https://www.youtube.com/watch?v=qNfAFfu6VD0)
+
+
+## Civil Rights: Two approaches
+
+Malcolm's most famous speech was probably "The Ballot or the Bullet"
+
+[The Ballot or the Bullet](https://www.youtube.com/watch?v=CRNciryImqg)
+
+## Next time
+
+::: {.custom-style style="font-size: 80px;"}
+We will cover major events in the Civil Rights movement and introduce the topic of public opinion in the context of this movement
+:::
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
