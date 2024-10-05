@@ -1,0 +1,236 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lectures 11 and 12: Public Opinion and Political Socialization
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: October 8, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+## Agenda
+
+- Today
+
+        - Clicker questions on last week's material
+        - Begin Public Opinion and Political Socialization
+ 
+- Next time 
+
+        - Finish Public Opinion and Political Socialization
+ 
+        
+## Announcements: Future Exams
+
+- The format will remain the same with the same balance of lecture versus textbook questions
+- There will be a practice exam
+- Study guide
+
+        - I will not make a study guide
+        - I will give a short, in class review including a list of broad questions you should be familiar with
+        - I will provide you with resources on how to make a study guide, which is normally a student responsibility and go over them in class mid-October
+        
+
+
+
+## Liberalism - Progressivism
+
+-   Classical and European: Individual entrepreneurship, less government
+-   Modern American (Progressive):
+    -   Economic intervention
+    -   Equality
+    -   Social services
+    -   Consumer safety/environment focus
+
+## Liberal/Progressives Priorities
+
+-   Progressive taxation
+-   Social services, healthcare
+-   Education, infrastructure, tech spending
+-   Minority, women's rights
+-   Reproductive, LGBTQ, immigrant rights
+-   Marijuana legalization, gun regulation
+
+## Conservatism 
+
+- Classical and European: 
+
+        - Tradition
+        - Hierarchy
+        - Authority
+        - Strong government
+        - Status Quo
+        - Order
+        
+- Modern American has two strands
+
+## Conservatism: Modern American
+
+-  Traditional
+
+>Combines elements of classical liberalism with traditional values and patriotic themes.
+
+## Conservatism: Modern American
+
+> “The proper question for conservatives is: What do you seek to conserve? The proper answer is concise but deceptively simple: We seek to conserve the American Founding.”
+
+- George Will, *The Conservative Sensibility*
+
+
+## Conservatism: Modern American
+
+-  Traditional
+
+        - Small government
+        - Rugged individualism
+        - Free markets
+        - Traditional values
+        - Strong military
+        
+-  Populist
+
+        - Anti-elitism
+        - Anti-global
+        - Government intervention in trade and labor flows (not free market)
+        - Withdrawal from international commitments (isolationism, not strong military)
+
+
+
+
+## Conservatives on the Issues
+
+-   Tax cuts, less spending
+-   Traditional family
+-   Strong military (traditional) vs. isolationism (populist)
+
+## Other Ideologies
+
+-   Libertarian: Freedom, small government
+
+    -   "Libertarian Republican senator Rand Paul was a vocal opponent of government regulations during the coronavirus pandemic. He opposed mask mandates and vaccine requirements."
+
+-   Socialist: Social ownership, strong government, equality
+
+    -   "Senator Bernie Sanders calls himself a 'democratic socialist.' Senator Sanders gained support from Millennials and Generation Z when running for President in 2016 and 2020."
+    
+    
+
+## Public Opinion
+
+-   Most Americans: Liberal, Conservative, Moderate
+-   Stable percentages
+-   "Gallup surveys indicate that as of 2022, 36 percent of Americans considered themselves conservatives, 37 percent moderates, and 25 percent liberals. Just under half of Democrats identify as liberal or very liberal, while nearly 40 percent identify as moderates and 14 percent identify as conservative."
+
+## Ideology: Pew Quiz
+
+https://www.pewresearch.org/politics/quiz/political-typology/?group=9187af8cf9f39f48b29cd4a375a9fb63
+
+
+https://www.pewresearch.org/politics/quiz/political-typology/?group=8f1e371e3647daac63a99d28f37e1327
+
+
+
+## Ideology: Clicker Question
+
+- Point Solutions/Clicker
+
+
+
+## Political Socialization: Overview
+
+-   Beliefs and values shape political views
+-   Socialization: Learning political culture
+-   Agents: Family, school
+
+## Political Socialization: Major Influences
+
+-   Family, friends
+-   Social networks: Betsy Sinclair - "social citizens"
+
+## Political Socialization: Other Influences
+
+-   Education
+-   College vs. non-college
+
+## Social Groups and Public Opinion: Race
+
+-   Linked fate
+
+## Public Opinion: Consent of the Governed
+
+-   Whose opinion matters?
+-   Influence of public opinion?
+-   Channels for public voice?
+
+## Social Groups and Public Opinion: Ethnicity
+
+-   Latino views
+
+## Social Groups and Public Opinion: Gender
+
+-   Gender gap
+
+## Social Groups and Public Opinion: Religion
+
+-   Religion as predictor
+-   Protestant, Evangelical, unaffiliated
+
+## Social Groups and Public Opinion: Party Affiliation
+
+-   Party cues
+-   Geographic sorting
+
+## Defining Public Opinion
+
+-   Attitudes
+-   Values
+-   Liberty
+-   Justice
+-   Equality of opportunity
+
+## Social Groups and Public Opinion: Economic Class
+
+-   Economic self-interest
+
+## Social Groups and Public Opinion: Generation
+
+-   Millennials, Gen Z
+-   Older citizens
+
+## Social Groups and Public Opinion: Region
+
+-   Regional variation
+
+
+## Authorship and License
+
+Source: We the People, 14th Edition, Chapter 6, Ginsberg, Lowi, Weir, Tolbert, Campbell, Francis
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
