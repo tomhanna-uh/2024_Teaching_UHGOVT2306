@@ -49,6 +49,132 @@ format:
         - I will provide you with resources on how to make a study guide, which is normally a student responsibility and go over them in class mid-October
         
 
+# Public Opinion and Political Socialization
+
+## Definitions
+
+ - Public opinion: citizens’ attitudes about political issues, leaders, institutions, and events
+
+- Values (or beliefs): basic principles that shape people’s opinions about issues and events
+
+
+## Definitions: Key American values
+
+- Liberty: freedom from governmental coercion
+
+- Justice: the fairness of how rewards and punishments are delivered, especially by governments and courts, but also in society
+
+ - Equality of opportunity: a widely shared American ideal that all people should have the freedom to use whatever talents and wealth they have to reach their fullest potential
+
+
+
+
+
+
+
+## Why does public opinion matter?
+
+::: {.custom-style style="font-size: 80px;"}
+Why does public opinion matter?
+:::
+
+## Why does public opinion matter?
+
+::: {.custom-style style="font-size: 80px;"}
+If government is organized violence, how can we justify its use to make people do things they do not want to do?
+:::
+
+
+## Declaration of Independence
+
+>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. 
+
+
+## Declaration of Independence
+
+::: {.custom-style style="font-size: 80px;"}
+- "...deriving their just powers from the **CONSENT OF THE GOVERNED**..."
+:::
+
+
+
+## Declaration of Independence
+
+
+- "...deriving their just powers from the **CONSENT OF THE GOVERNED**..."
+
+::: {.custom-style style="font-size: 80px;"}
+AND!
+:::
+
+
+## Declaration of Independence
+
+::: {.custom-style style="font-size: 80px;"}
+"...it is the right of the people to alter or to abolish it..."
+:::
+
+
+
+
+## Consensual government
+
+::: {.custom-style style="font-size: 80px;"}
+More than just majority (or plurality) opinion
+:::
+
+## Consensual government
+
+::: {.custom-style style="font-size: 80px;"}
+Rights of political minorities matter
+:::
+
+## Consensual government
+
+::: {.custom-style style="font-size: 80px;"}
+Political minorities are still entitled to representation^[Political minorities means those who do not hold political power. It includes racial, ethnic, religious, and other minorities, but is not just those categories.]
+:::
+
+## Consensual government
+
+::: {.custom-style style="font-size: 80px;"}
+Minority political opinions matter
+:::
+
+
+## Consensual government
+
+- More than just majority (or plurality) opinion
+- Rights of political minorities matter
+- Political minorities are still entitled to representation
+- Minority political opinions matter
+
+## Political majorities and minorities
+
+::: {.custom-style style="font-size: 80px;"}
+How can we define political majorities and minorities?
+:::
+
+## Political majorities and minorities
+
+- Election outcomes (parties)
+
+
+
+## Political majorities and minorities
+
+- Election outcomes (parties)
+- Policy opinions (issues)
+
+        - surveys, interviews, contact with representatives, petitions, and other methods
+
+## Political majorities and minorities
+
+- Election outcomes (parties)
+- Policy opinions (issues)
+- Values or beliefs (ideology)
+
+
 
 
 ## Liberalism - Progressivism
