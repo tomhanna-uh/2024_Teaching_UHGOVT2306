@@ -1,0 +1,250 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lectures 17: Texas Constitution
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today
+
+        - Announcements
+        - Exam 2 results
+        - Exam 2 Extra Credit
+        - Texas Culture and Politics basics
+        
+- Wednesday 
+
+        - Texas Constitution basics
+        
+
+## Announcements
+
+- Participation today is going to include some anonymous questions about the current election
+- The final question will be for the participation point and won't be anonymous (also not about the election)
+- It will start right after the Exam Extra Credit and run until we get to the last question
+
+
+## Exam 2 Results: Distribution of Percentage
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(here)
+exam2 <- read.csv(here("data","exam2.csv"))
+
+# convert score to percentages and save to percent_score
+
+exam2$percent_score <- exam2$score/135 * 100
+
+
+
+
+# create letter_grade where percent_score >= 93 is an A, 90-93 is an A-, 87-89 is a B+, 83-86 is a B, 80-82 is a B-, 77-79 is a C+, 73-76 is a C, 70-72 is a C-, 67-69 is a D+, 63-66 is a D, 60-62 is a D-, and < 60 is an F
+
+exam2$letter_grade <- cut(exam2$percent_score, breaks = c(0, 60, 63, 67, 70, 73, 77, 80, 83, 87, 90, 93, 100), labels = c("F", "D-", "D", "D+", "C-", "C", "C+", "B-", "B", "B+", "A-", "A"))
+```
+
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# plot distribution of percent_score
+
+hist(exam2$percent_score, main = "Distribution of Exam 2 Percent Scores", xlab = "Percent Score", col = "lightblue", border = "black")
+```
+
+## Exam 2 Results: Distribution of Grades
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# plot distribution of grades
+
+barplot(table(exam2$letter_grade), main = "Distribution of Exam 2 Grades", xlab = "Grade", ylab = "Number of Students", col = "lightblue", border = "black")
+
+
+
+```
+
+## Exam Results Overall
+
+```{r}
+# load grade categories data
+
+grade_categories <- read.csv(here("data","grade_categories.csv"))
+
+head(grade_categories)
+
+# plot Participation.Total (X) against Exams.Total (Y) with ab line using lm()
+
+plot(grade_categories$Participation.Total, grade_categories$Exams.Total, main = "Participation Total vs Exams Total", xlab = "Participation Total", ylab = "Exams Total", col = "blue")
+abline(lm(grade_categories$Exams.Total ~ grade_categories$Participation.Total), col = "red")
+
+
+```
+
+
+## Exam Results Overall
+
+```{r}
+# plot Inquizitives.Total (X) against Exams.Total (Y) with ab line using lm()
+
+plot(grade_categories$Inquizitives.Total, grade_categories$Exams.Total, main = "Inquizitives Total vs Exams Total", xlab = "Inquizitives Total", ylab = "Exams Total", col = "blue")
+abline(lm(grade_categories$Exams.Total ~ grade_categories$Inquizitives.Total), col = "red")
+
+
+
+```
+
+## Exam Reulults Overall
+
+
+```{r}
+# create and plot a linear model with Exams.Total as the dependent variable and Participation.Total and Inquizitives.Total as the independent variables
+
+
+
+
+model <- lm(Exams.Total ~ Participation.Total + Inquizitives.Total, data = grade_categories)
+
+
+
+# plot using sJPlot marginal effects
+
+model_plot1 <- sjPlot::plot_model(model, type = "pred", terms = c("Participation.Total", "Inquizitives.Total"), title = "Exam Total Predicted by Participation and Inquizitives", axis.title = "Predictor", axis.title.x = "Exam Total", axis.title.y = "Predictor Value")
+
+# Create two columns in the slide, place the stargazer table in the first column and the sjPlot plot object (model_plot1) in the second column
+
+
+library(stargazer)
+stargazer(model, type = "text")
+
+
+```
+
+## Exam Results Overall
+
+```{r}
+
+
+model_plot1
+```
+
+
+
+
+
+## Exam 2 Extra Credit
+
+- Open Point Solutions
+- If you have any problems, see me after class before leaving
+- Once we all leave the room, results stand
+
+
+# Texas Culture and Politics
+
+## Participation points
+
+- Open Point Solutions
+- If you have any problems, see me after class before leaving
+- Once we all leave the room, results stand
+
+
+## Political Culture of Texas
+
+- Diverse political culture has two themes that are shared across party, ethnic, and religious lines
+
+        - Individualism
+        - Traditionalism
+        
+## Individualism
+
+- Grew from multiple sources
+
+        - Frontier experience of self-reliance
+        - Settlers looking for Economic opportunity (this continues today)
+        - American Revolutionary ideals
+        
+## Traditionalism
+
+- Grew from multiple sources
+
+        - Frontier experience of neighbors cooperating especially through churches
+        - Provincialism 
+        - Business dominance
+
+        
+        
+        
+## The cultures and partisan politics
+        
+- Before the 1990s, the Democratic Party appealed successfully to these cultures
+- Since 1990, the Republicans social conservative wing has connected with Texan's traditionalism
+- The Republicans business oriented wing has connected with Texan's individualism 
+- The national Democratic Party difficulty connecting: notable exceptions such as the Clintons and Obama
+
+
+## Regions of Texas
+
+![Regions of Texas map](region_map.png)
+
+
+## Regions of Texas
+
+![Permian Basin map](permian_basin.jpg)
+
+
+## The cultures and geography
+
+- Traditionalism 
+
+        - Interior Lowlands
+        - Great Plains
+        - Gulf Coastal Plains & Basin regiona - outside urban areas
+        
+- Individualism: discuss the following
+
+        - the specifics vary but this is a fundamental characteristic of Texas
+        - What about variation among demographic groups?        
+        - Native Texans and newly arrived Texans?
+
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+

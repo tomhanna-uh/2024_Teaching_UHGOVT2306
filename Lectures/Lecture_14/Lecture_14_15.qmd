@@ -1,0 +1,408 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lectures 14 and 15: Elections and Political Parties
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+# Agenda and Announcements
+
+## Agenda
+
+Today
+
+        1. Announcements
+        2. Elections and political parties
+
+Wednesday 
+
+        1. Finish Elections and political parties
+        2. Short review for Exam 2
+        
+## Announcements
+
+# Elections
+
+## Review
+
+- Why do we care about public opinion?
+- Is the US a democracy?
+- Is the US a republic?
+
+
+## Review
+
+- Why do we care about public opinion?
+
+        - Our democracy is a consensual democracy, not a majoritiarian democracy
+        - Everyone is entitled to representation, not just the winners of elections
+        - Public opinion is a barometer of the health of our democracy
+        
+- Is the US a democracy? Yes
+
+        - It is a representative democracy, not a direct democracy
+        - It is a consensual democracy, not a majoritarian democracy
+        - The rights of political minorities matter
+        
+- Is the US a republic? Yes
+
+        - Simple: not a monarchy
+        - More complex: res publica, the public thing
+        - The people own the government not vice versa
+        - This also means that all the people own the government, not that the majority own the minority
+        
+        
+## Barack Obama at UN General Assembly
+
+"As we do every time this year, Presidents and Prime Ministers converge on this great city to advance important work. But as leaders, we are not the most important people here today. It is the civil society leaders who, in many ways, are going to have the more lasting impact, because as the saying goes, **the most important title is not president or prime minister; the most important title is citizen."**
+
+
+
+## Review: Why does this matter for today's topic?
+
+- Elections matter
+- The type of elections matter, too
+
+        - not just majoritarian
+        - the way we handle elections takes rights of political minorities into account
+        - If the stakes of elections are too high, consent of the minority is threatened
+        
+        
+## Campaigns and Elections
+
+
+## Who runs elections in the United States
+
+Who ran elections in the Colonial era? 
+
+
+## Who runs elections in the United States
+
+Who ran elections in the Colonial era? 
+
+Who ran elections in the early Republic (1776 to 1789)?
+
+
+## Who runs elections in the United States
+
+Who ran elections in the Colonial era? 
+
+Who ran elections in the early Republic (1776 to 1789)?
+
+What powers over elections did the Constitution give to Congress?
+
+
+## Question to consider: Who should run elections?
+
+
+If the national government runs elections, what option do the citizens have if the national government becomes tyrannical?
+
+If the state governments run elections and maintain that power, what option do the citizens have if the national government becomes tyrannical?
+
+
+## Who runs elections in the United States
+
+- State and local governments
+- Federal government sets some rules
+
+        - Centered on 14th Amendment
+        - Voting Rights Act
+        - Help America Vote Act
+
+- Parties also play a role in primary elections, caucuses, and conventions
+
+
+## Types of electoral rules (voting systems)
+
+- Plurality system
+
+        - First-past-the-post system
+        - Winner-take-all system
+        - Common in the United States
+        - Big contributor to two major party dominance
+        - If there are a dozen closely matched candidates, the winner may only get 20% of the vote
+        
+- Majority system: candidate must win 50% + 1 vote
+
+## Types of electoral rules (voting systems)
+
+- Runoff election: if no candidate wins majority, top two candidates face off in a second election
+- Ranked choice voting / instant runoff voting
+
+        - voters rank candidates in order of preference
+        - Uncommon now but used in the past in some major cities
+        - Now used in Maine and Alaska for federal elections
+
+        
+## Types of Elections
+
+- Primary elections
+- General elections
+- Special elections
+
+
+## Types of Elections: Primaries
+
+- Usually set by **state law** along with **party rules**
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+An organized group of people with broadly common interests who seek to win and hold public office in order to influence public policy.
+:::
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+Parties are private organizations: organized group of people
+::: 
+
+
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+Parties have broadly common interests
+
+Who decides what those interests are?
+::: 
+
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+The parties decide: Parties have freedom of association
+:::
+
+## How do parties decide their interests and rules?
+
+- primary elections
+- party committees
+- party conventions
+
+
+## Typical party structure in the US
+
+- local party committees elected by primary or caucus
+- local party committees elect state party committees and state convention delegates
+- state party committees elect national party committee members and national delegates
+
+
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+If parties are private organizations with freedom of association and the ability to set their own interests, what is the role of the courts in party rules?
+:::
+
+
+## What are political parties?
+
+::: {.custom-style style="font-size: 80px;"}
+With only rare exceptions, party rules are not subject to judicial review
+:::
+
+
+## Types of Elections: Primary elections
+
+- Select the parties nominees for the general election
+
+        - Closed primary 
+        - Open primary 
+        - Blanket primary 
+        - Jungle primary / Top two primary / Louisiana primary
+        - Caucus
+
+
+## Types of Elections: General elections
+
+- Select officeholders
+- Most use plurality system
+- Some use majority system or runoff elections
+- Maine and Alaska use ranked choice voting
+
+
+
+## Types of Elections: Special elections and other elections
+
+- Fill vacancies
+- Recall elections
+- Ballot initiatives
+- Referendums
+
+
+## Party conventions
+
+- Held every four years
+- Delegates are elected in the state primaries and caucuses
+
+        - Delegates are pledged to support a candidate
+        - Delegates select the party’s nominee for president
+        - Delegates also draft the party platform
+        - Usually a formality
+        - In the past, conventions were more important
+
+- Rules set by party National Committees
+
+
+
+## Democratic Convention Rules
+
+- Superdelegate
+
+        - party leader or elected official who is automatically a delegate
+        - not pledged to support a candidate
+        - can vote for any candidate
+        -  out of total delegates       
+
+- 2024: 
+
+        - 747 superdelegates
+        - 3,949 pledged delegates
+        - 4,696 total delegates
+        
+- Superdelegates helped defeat Independent Bernie Sanders in 2016 
+
+        - Sanders won the most pledged delegates
+        - Hillary Clinton won the most superdelegates
+        - Clinton won the nomination
+        
+        
+
+## Republican Convention Rules
+
+- Superdelegates are not used in the Republican Party
+- Former Democrat and Reform Party Member Donald Trump won the Republican nomination in 2016 
+
+        - took over the Republican Party from the outside
+        - getting a plurality in primaries (most votes but less than 50%)
+        - won a plurality of primaries (not a majority)
+        - No superdelegates existed to defend the GOP against the hostile takeover by a non-Republican
+
+
+
+
+## Presidential General Election
+
+Electoral College
+
+        - Indirect election
+        - Candidate names are on the ballot
+        - We elected Electors pledged to those candidates
+        - Electors meet in December to cast their votes
+        - Congress counts the Electoral College votes in January
+        
+
+- Indirect election of the chief executive is not unique to the United States
+        
+        - The Electoral College is unique to the United States
+        - Most democracies are parliamentary systems where the chief executive is chosen by the legislature
+        - The Electoral College is a compromise between direct election and election by the legislature
+        - Preserves federalism and the power of the states
+        - Preserves the Separation of Powers (Congress role is extremely limited)
+
+## Election campaigns
+
+- Campaigns are long and expensive
+- Campaigns are run by professional staff
+- Campaigns are media-driven
+- Expensive campaigns favor incumbents over challengers
+
+        - incumbents: current officeholders
+        - challengers: candidates running against incumbents
+        
+- Incumbents have name recognition and a record to run on
+- Incumbents have access to campaign funds from PACs and other sources
+
+## Federal Election Campaign finncing
+
+- Campaign Finance Legal Framework
+
+        - Goes back to 1867
+        - Federal Election Campaign Act (1971)
+        - Federal Election Commission (1974)
+        - Bipartisan Campaign Reform Act (2002)
+        
+- Free speech issues (important cases)
+        
+        - Citizens United v. FEC (2010)
+        - McCutcheon v. FEC (2014)
+        
+- Campaign finance entities
+
+        - Campaign committees
+        - Political Action Committees (PACs)
+        - Super PACs
+        - 501(c)(4) committees (IRS designation for a type of nonprofit social welfare organization)
+        
+## State and local elections
+
+- State and local governments have their own campaign finance laws for state and local races
+- We will discuss Texas elections in Module 3 after the exam
+
+# Exam Review
+
+## Meeting Q & A
+
+- Format reminders
+- Exam material
+- Study question suggestions
+- Q & A as time allows
+
+## Exam Reminders
+
+- No class October 30
+- In CASA Testing Center, **in person, on campus**
+- on Canvas, Lockdown Browser - Computer provided
+- Bring your Cougar Card
+- 45 questions - 135 points total
+- 50 minutes to complete
+- Multiple choice, Multiple Answer, True Fals
+
+## Exam Extra Credit
+
+- Exam extra credit separate: November 4
+- **In person, in the regular classroom**
+- Point Solutions/Clicker
+- One to three questions depending on exam scores, same value as exam questions
+- **You must be present in person for the exam extra credit. No exceptions. If you want it, you make it happen.**
+
+
+
+
+ 
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+

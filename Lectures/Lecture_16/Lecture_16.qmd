@@ -1,0 +1,232 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lectures 16: Texas Module Overview
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+# Agenda and Announcements
+
+## Agenda
+
+Today
+
+        1. Announcements 
+        2. Plan for rest of semester
+        3. Overview and Introduction to Texas Politics
+
+Wednesday 
+
+        1. NO CLASS - Exam 2 Recovery
+
+Next Monday
+
+        1. Exam 2 Extra Credit - Must be in class to participate
+        
+## Announcements
+
+1 - Wednesday office hours this week will be by Microsoft Teams or **Google Meet** 
+
+        - I will post the Google Meet link in GroupMe and Canvas
+        - Teams will require setting an appointment
+        
+2 - I will check GroupMe periodically during office hours and will have it open when not meeting one-on-one with someone
+
+
+
+## Plan for Rest of Semester
+
+- You should have completed all Inquizitive assignments from We the People - Chapters 1 through 10
+- We will spend at least part of one class day after November 5, revisiting federal government ideas in light of the current election 
+- The rest of the semester we will work in Governing Texas
+- Recommended Governing Texas Schedule
+
+        - Chapter 1 - Do by November November 3
+        - Chapter 2 - by November 10
+        - Chapter 3 - by November 17 
+        - Chapters 4 - by November 24
+        - Hard deadline for everything is November 26
+
+
+
+## Plan for Rest of Semester
+
+- Deadline to drop with a W is November 20, don't wait if you need to drop
+- If your Total Grade is 50 or below, please consider dropping this week or soon
+
+- Estimating your grade if you missed Exam 1:
+
+        - Add 0.3 times your Exam 2 percentage for an estimate (but you must do that well on the Final, too)
+
+- If you missed Exam 1 and 2 - drop or study 12 hrs a week starting now
+- Grade questions: office hours **soon**
+
+
+
+## Plan for Rest of Semester
+        
+- 3 class weeks left
+
+        - November 20 - Last day of class, short Final Exam review
+        - November 20 - Final Exam Extra Credit, in class only
+        - November 25 and 26 - Final Exam
+        - November 25 - All late work and extra credit due
+        - I will finish grades shortly after Thanksgiving break
+        
+
+## Final Exam
+
+- In CASA or the Dart Center, November 25th and 26th
+- In person
+- No exceptions, no makeups, no excuses accepted
+
+        - Extreme, very well documented medical emergency might get an incomplete for the semester if 85% of work including taking both Exam 1 and Exam 2 are completed. All bureaucratic burden of documentation will fall on the student.
+
+
+        
+## Final Exam
+
+- In CASA, in person, on campus
+- No makeups
+- 57 questions 70 minutes
+
+        - same format as Exam 1 and Exam 2
+        - 3 points per question
+        - 57 questions
+        - 171 points possible 
+        
+## Final Exam Content (subject to minor change)
+        
+- Will be in Practice Exam:
+
+        - 17 questions each from Exam 1 and Exam 2 Chapters and lectures
+        - 17 questions from Unit 3 (Texas) Chapters
+        - 7 Second Chance questions from Exams 1 and 2 - topics and definitions will be posted in Canvas
+        - Unit 1 to 3 questions will be in practice exam including Second Chance questions
+
+- Will be posted in Canvas without answers for study:
+
+        - 10 Exam 1 Lecture Questions - will be posted in Canvas without answers
+        - 6 current Texas politics questions from Unit 3 Lectures - will be posted in Canvas without answers
+
+        
+        
+## Final Exam
+
+ - Unit 3 Lecture questions will not be surprises: For example, I might be talking about an action taken by the Governor of Texas, Greg Abbott, and say, "What is the name of the Governor of Texas? You should know that for the exam!" 
+ 
+<p id = "blink_text">Hint: Greg Abbott is the Governor of Texas!</p>
+
+- Second Chance or "I know it now" questions will be *important* questions widely missed on Exams 1 and 2. 
+- Second Chance questions will be similar to the Extra Credit Questions
+
+# Overview and Introduction to Texas Politics
+
+- Our focus will be on the Texas Constitution and the political culture of Texas
+
+
+# Overview and Introduction to Texas Politics
+
+- Our focus will be on the Texas Constitution and the political culture of Texas
+- We will talk about current events and issues in Texas
+
+        - including Harris County and Houston
+        - including Texas colleges and universities
+        
+
+# Overview and Introduction to Texas Politics
+
+- Our focus will be on the Texas Constitution and the political culture of Texas
+- We will talk about current events and issues in Texas
+- We will talk about what is different about Texas and what is the same, compared to other states
+        
+# Overview and Introduction to Texas Politics
+
+- Texas regional differences
+
+![Regions of Texas map](region_map.png)
+
+
+## Overview and Introduction to Texas Politics
+
+- The importance of oil and gas in the lives of Texans
+
+![Permian Basin map](permian_basin.jpg)
+
+
+# Overview and Introduction to Texas Politics
+
+- Urban and rural differences in Texas
+
+![Urbanization of Texas](urbanization.png)
+
+## Overview and Introduction to Texas Politics
+
+- The importance of the border with Mexico
+- Texas history with Mexico (and briefly with Spain) pre- and post-independence
+- The frontier influence on Texas politics
+- The importance of Tejanos in Texas history and politics and the growing importance of Hispanic voters in Texas politics
+
+## Overview and Introduction to Texas Politics
+
+- Political cultures in Texas
+
+        - Individualism
+        - Traditionalism
+
+- The effect on Texas political parties
+- The history of Texas political parties
+
+
+## Overview and Introduction to Texas Politics
+
+- The Texas Constitutions
+
+        - 7 Constitutions
+        - 1 under Mexico
+        - 1 under the Republic of Texas
+        - 4 for the US State of Texas
+        - 1 for the Confederate State of Texas
+        
+
+        
+        
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
