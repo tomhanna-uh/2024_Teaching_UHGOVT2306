@@ -1,0 +1,169 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lecture 20: A Texas Blue Wave?
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+# I. The Texas Battlefield
+
+## A. Demographic Shifts and the Promise of a Blue Texas
+
+* Long-held predictions of Texas turning blue due to changing demographics.
+* Texas becoming a minority-majority state.
+* The allure of the Latino vote for Democrats.
+
+## B. The Reality Check: Republican Stronghold
+
+* Continued Republican dominance in statewide offices and the Texas House.
+* Republican gains in the Rio Grande Valley, traditionally a Democratic stronghold.
+* Significant swing in the Latino vote towards Republicans.
+* Significant inroads in males of all races, including young males, by Republicans. 
+
+# II. The 2024 Election: A Case Study
+
+## A. The Senate Race: Allred vs. Cruz
+
+* High hopes for Collin Allred as a Democratic challenger.
+* Campaign strategies:
+    * Democrats focusing on abortion and targeting young voters, particularly women.
+    * Republicans exploiting Allred's stance on LNG exports and transgender athletes.
+    * Trump campaign targeting disaffected voters including young males.
+* Cruz's decisive victory, dampening Democratic enthusiasm.
+
+## B. Analyzing the Defeat: Why Democrats Lost
+
+* Misreading the electorate:
+
+>Democrats made assumptions about Latino support or opposition to certain policies. One assumption was that Latinos were overwhelmingly opposed to deportation of undocumented immigrants.
+
+
+## B. Analyzing the Defeat: Why Democrats Lost
+
+* Misreading the electorate:
+
+![Latino Voters on Deportation](pie_chart.png)
+
+## B. Analyzing the Defeat: Why Democrats Lost
+
+* Misreading the electorate:
+
+> 78% of Texans support an exception to the near total abortion ban at least at some point during pregnancy. Democrats assumed that the abortion issue would be a winning issue for them in Texas.
+
+## B. Analyzing the Defeat: Why Democrats Lost
+
+* Misreading the electorate:
+
+> Only 4% of voters ranked abortion as their top issue.
+> Women under 30 make up about 5.5% of Texas voters and some of them are strongly pro-life. 
+
+
+## B. Analyzing the Defeat: Why Democrats Lost
+
+* Misreading the electorate:
+    * Overestimating support for abortion rights.
+    * Promoting policies unpopular with a majority of Texans.
+* Disconnect with Texas voters:
+    * Focusing on national issues over Texas-specific concerns.
+    * Prioritizing "political correctness" over voters' priorities.
+    * Ignoring the large number of disaffected voters in Texas.
+    * Ignoring the concerns of Texas strong Individualist and Traditionalist cultures.
+    
+    
+## B. Analyzing the Defeat: Why Democrats Lost    
+* Campaign strategy shortcomings:
+    * Overreliance on social media and "viral" moments.
+    * Lack of a robust ground game and voter outreach, especially among Latinos.
+
+## III. The Path Forward: Soul-Searching and Strategic Shifts
+
+### A. Internal Debate and Criticism
+
+* Concerns about the party's ability to attract national funding after repeated losses.
+* Frustration with the disconnect between national Democratic priorities and Texas voters.
+* Calls for a deeper understanding of Texas-specific issues and concerns.
+
+## B. Rethinking Democratic Strategies for Success
+
+* The need for sustained investment in Texas, beyond last-minute cash infusions.
+* Building a strong ground game and engaging in year-round voter outreach.
+* Developing a more effective message that resonates with a broader range of Texas voters.
+* Developing a more effective message that resonates with Texas strong Individualist and Traditionalist cultures.
+
+## C. Republican Challenges and Opportunities
+
+* The need to maintain and expand support among Latinos.
+* The potential for backlash against the GOP's more conservative positions that conflict with Texas Individualist culture.
+* The importance of adapting to changing demographics and voter priorities.
+
+# IV. The Unanswered Question: Can Texas Turn Blue?
+
+## The Future of Texas Politics
+
+* Despite setbacks for the Democrats, the question of whether Texas will eventually turn blue remains a topic of debate and speculation.
+* The future likely hinges on the Democrats' ability to adapt their strategies, connect with a broader range of voters, and effectively address the unique political landscape of Texas.
+* The future also depends to some extent on the Republicans' ability to maintain their dominance and appeal to a changing electorate, for example by continuing to make inroads with Latino voters and perhaps moderating their positions on certain issues.
+
+
+# V. Key Players and Perspectives
+
+## A. The Politicians
+
+* Ted Cruz, Beto O'Rourke, Collin Allred, Joe Biden, Kamala Harris
+
+## B. The Analysts (Sources)
+
+* Bill King, Jon Taylor, Matt Angle, Chad Wilbanks, Chuck Rocha, Jeff Mayhugh
+
+## C. Democratic Party Figures and Donors
+
+* Ali Zaidi, Dave Carney, Katherine Fischer, Greg Casar, Luke Warford
+
+## D. Other Voices
+
+* Olivia Juliana, Isaiah Martin
+
+## E. Organizations
+
+* Texas Majority PAC, Democratic Senate Campaign Committee, ProgressNow drop
+
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
