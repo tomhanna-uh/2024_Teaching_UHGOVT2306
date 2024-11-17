@@ -1,0 +1,268 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lecture 21: Texas's Diverse Political Culture
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today
+
+        - Texas's Diverse Political Culture
+        - 3 extra credit questions
+        
+- Wednesday
+
+        - Review for Exam 3 (Final Exam)
+        - Final Exam Extra Credit Questions
+        
+
+## Announcements
+
+- Final Exam November 25 and 26
+
+        - No makeups
+
+- All work must be submitted by November 26
+
+        - I will not grade anything which comes in while I am working on final grades or after
+        
+# Texas's Diverse Political Culture
+
+
+## Texas's Diverse Population
+
+- Texas is a large and diverse state
+- Majority-minority state
+- Language diversity
+- Economic diversity^[https://data.census.gov/profile/Texas?g=040XX00US48]
+- Religious diversity^[https://www.pewresearch.org/religious-landscape-study/database/state/texas/]
+
+## Texas's Diverse Population
+
+- Texas is a large and diverse state
+
+        - 2nd largest state in the US
+        - 2nd most populous state in the US
+        - 2nd most diverse state in the US
+        
+## Texas's Diverse Population
+        
+- Texas is a majority-minority state^[White: 14,609,365 from same source, US Census 2020]
+
+        - American Indian and Alaska Native: 278,948
+        - Asian: 1,585,480
+        - Black or African-American: 3,552,997
+        - Hispanic or Latino: 11,441,717
+        - Native Hawaiian or other Pacific Islander: 33,611
+        - White (not Hispanic or Latino): 11,584,597
+        - Some other race: 3,951,366
+        - Two or more races: 5,133,738
+        
+## Texas's Diverse Population
+
+[Texas population by Age](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Age and Sex)
+
+        
+## Texas's Diverse Population
+
+
+- Language Other Than English Spoken at Home in Texas:  **35.4%** ± 0.2%
+
+        - Spanish 28.2%
+        - Other Indo-European 2.7%
+        - Asian and Pacific Island languages 3.3%
+        - Other languages 1.2%
+
+- Language Other Than English Spoken at Home in United States: **22.5%** ± 0.1%
+        
+## Texas's Diverse Population
+
+[Income in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Income and Earnings)
+
+## Texas's Diverse Population
+
+[Employment in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Class of Worker)
+
+## Texas's Diverse Population
+
+[Industry Employment in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Industry)
+
+
+## Texas's Diverse Population: Religion (1)
+
+- Christian: 77%^[https://www.pewresearch.org/religious-landscape-study/database/state/texas/
+
+        - Evangelical Protestant: 31%
+        - Mainline Protestant: 13%
+        - Historically Black Protestant: 6%
+        - Catholic: 23%
+        - Mormon: 1%
+        - Orthodox Christian: 1%
+        - Jehovah's Witness: 1%
+        - Other Christian: 1%
+        
+- Non-Christian Faiths: 4%
+
+        - Jewish: 1%
+        - Muslim: 1%
+        - Buddhist: 1%
+        - Hindu: 1%
+        - Other World Religions: 1%
+        - Other Faiths: 1%
+        
+
+## Texas's Diverse Population: Religion (2)        
+
+- Unaffiliated: 18%
+
+        - Atheist: 2%
+        - Agnostic: 3%
+        - Nothing in Particular: 13%
+        
+- Don't Know: 1%
+
+
+## Representation in Texas
+
+[As the share of white Texans continues to shrink, the Legislature remains mostly white and male](https://www.texastribune.org/2023/01/11/2023-texas-legislature-representation/)
+
+## Representation in Texas
+
+- 2023 State Legislature
+
+        - 70% male
+        - 54% white
+        - white male: nearly half
+        
+
+
+## Representation in Texas
+
+![Gender History in Texas Legislature: from Texas Tribune](gender_history.jpg)
+
+
+## Representation in Texas
+
+First Black Statewide Official
+
+???
+
+## Representation in Texas
+
+- Barbara Jordan
+- First African- American woman elected to Texas Senate (1966)
+- Member of Congress (1973-1979)
+- First African American elected to Congress from Texas 
+- First African American woman from the South elected to Congress
+
+
+## Representation in Texas
+
+First Hispanic or Latino Statewide Official
+
+- Dan Morales
+- Attorney General (1991-1999)
+- Democrat
+- Succeeded by: John Cornyn
+
+
+## Representation in Texas
+
+![Have Republicans Elected More Hispanics Statewide than Democrats](politifact.png)^[Notes: Democrats controlled all statewide offices in Texas until 1995. The Politifact article is from 2011, before the election of George P. Bush as Land Commissioner in 2014 and Ted Cruz in 2013. Source: https://www.politifact.com/factchecks/2011/dec/12/republican-party-texas/texas-gop-chair-says-more-hispanics-have-won-state/]
+
+## Representation in Texas
+
+First Republican Hispanic or Latino Statewide Official
+
+- Alberto Gonzales
+- Texas Supreme Court Justice (1999-2001)
+- Resigned to become White House Counsel (2001-2005) for George W. Bush
+- US Attorney General (2005-2007)
+
+
+## Representation in Texas
+
+**First Female Governor: Miriam Amanda "Ma" Ferguson**
+
+- Second female Governor in the United States
+- Husband James Edward Ferguson, Governor 1915-1917
+
+        - impeached and removed from office
+        
+- Ma Ferguson Governor 1925-1927 and 1933-1935
+
+        - "Two for the price of one"
+        
+- Democrat
+        
+        
+
+
+## Representation in Texas
+
+**Second Female Governor**
+
+- **Ann Richards**
+- Governor 1991-1995
+- Democrat
+- Succeeded by George W. Bush
+
+
+## Representation in Texas
+
+**First Female United States Senator**
+
+- **Kay Bailey Hutchison**
+- Republican
+- 1993-2013
+- Succeeded by Ted Cruz
+
+
+
+
+
+
+
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
