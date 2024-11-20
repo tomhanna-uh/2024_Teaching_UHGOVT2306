@@ -1,0 +1,237 @@
+---
+title: |
+    | GOVT2306: US and Texas Constitution and Politics
+    | Lecture 22: Final Exam Review
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tlhanna@central.uh.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: University of Houston
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.scss]
+                slide-number: true
+                preview-links: true 
+                link-external-newwindow: true
+                logo: ../assets/logo.png
+                footer: "GOVT2306, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Final Exam Review
+
+## Format
+
+- 57 questions
+- Multiple choice, multiple answer, true-false
+- 3 points each
+- 75 minutes
+- In person, in CASA testing center
+
+## Material
+
+- Covers all material from the entire semester
+- 25 Texas questions, 32 Unit 1 and 2 questions
+        
+        - 10 questions from lecture Unit 1
+        - 10 questions from lecture Unit 3 (Texas)
+        - 6 general court case questions (see last section)
+        - 6 questions from Unit 1 text
+        - 6 questions from Unit 2 text
+        - 15 questions from Unit 3 text
+        - 2 I Know it Now questions each from Units 1 and 2 widely missed but important (4 total)
+
+
+## Studying - Resources
+
+- In Canvas Final Exam Module
+
+        - Complete list of Texas Inquizitive Questions
+        - Texas Lecture Questions Practice Exam
+        - Complete list of Exam 1 Lecture Questions 
+        - List of Exam Review Questions for each Unit
+
+- In Canvas Exam 1 and 2 Modules
+
+        - Your Exam 1 and Exam 2 results with answers
+        - Exam 1 and 2 Practice Exams
+
+- In Canvas Unit Modules
+
+        - Inquizitives
+        - Illumine E-book
+        - Lecture Slides
+        - Flashcards
+        - Chapter Outlines
+        
+
+
+
+## Unit 1
+
+- What is government?
+- What is politics?
+- Why do we need to control government?
+
+- Major principles of the US Constitution
+
+        - Articles of the Constitution especially Articles I to III
+        - Checks and balances
+        - Federalism
+        - Separation of powers
+        - Bill of Rights
+        - Enumerated Powers
+        - Civil Liberties
+        - Civil Rights
+
+
+## Unit 2
+
+- Public Opinion
+- Participation and Voting
+- The Media
+- Political Parties
+- Elections and Campaigns
+
+        - What is a democracy?
+        - What is a republic?
+        - How do minority rights figure into democracy?
+
+
+
+## Unit 3 (Texas)
+
+
+- Texas Constitution
+- The Texas Plural Executive
+- Texas Political Culture
+
+## Important Court Cases (Government Structure)
+
+- Marbury v. Madison (established judicial review)
+- McCulloch v. Maryland (federalism - federal supremacy)
+- Prinz v. United States (federalism - state's not agents of the federal government) 
+- United States v. Nixon (executive privilege)
+- Bush v. Gore (elections - equal protection applies to elections)
+
+## Important Court Cases (Civil Rights)
+
+- Dred Scott v. Sandford (denied citizenship to African Americans - major spark of the Civil War)
+- Plessy v. Ferguson (separate but equal allowed - Jim Crow laws)
+- Brown v. Board of Education (overturned Plessy; separate is inherently unequal)
+- Virginia v. Loving (interracial marriage - marriage is fundamental right)
+- Obergefell v. Hodges (same sex marriage)
+
+
+## Important Court Cases (Civil Liberties)
+
+- Griswold v. Connecticut (right to privacy - birth control)
+- Roe v. Wade (legalized abortion)
+- Casey v. Planned Parenthood (abortion - narrowed Roe v. Wade)
+- Dobbs v. Jackson Women's Health Organization (overturned Roe v. Wade and Casey - abortion a state issue) 
+- Lawrence v. Texas (overturned state sodomy laws - right to privacy - ended persecution of homosexual sex)
+
+
+## Important Court Cases (Civil Liberties - Criminal Justice)
+- Gideon v. Wainwright (right to counsel)
+- Miranda v. Arizona (police must inform suspects of rights before questioning)
+- Terry v. Ohio (stop and frisk; reasonable search during questioning)
+
+
+
+
+
+
+## I Know It Now Questions 1
+
+- James Madison famously described the system of representative government in the Constitution as a Republic and contrasted it with a form of unlimited, majoritarian government which he labeled democracy. Which of the following characteristics of modern liberal democracy are shared with Madison’s Republic? (Choose all that apply)
+
+    A. Opposition to one party rule **
+    B. Protection of property rights **
+    C. Protection of basic civil liberties **
+    D. Representative government **
+    E. Protection of political minorities **
+    
+    
+
+## I Know It Now Questions 2
+
+Under the original Constitution, Congress could not ban the slave trade until:
+
+    A. 1865
+    B. 1808 **
+    C. 1921
+    D. 1945
+    
+## I Know It Now Questions 3
+
+The writers of the Constitution used the term________ for a form of government that consists of carefully designed institutions that are responsive to the majority but not captive to it.
+
+    A. Republic **
+    B. Monarchy
+    C. Democracy
+    D. Oligarchy
+    
+## I Know It Now Questions 4
+
+The right to an attorney is guaranteed by the________ Amendment.
+
+    A. First
+    B. Second
+    C. Tenth
+    D. Sixth **
+    
+    
+## I Know It Now Questions 5
+
+When the nation was founded, who was eligible to vote?
+
+    A. everyone—there was universal suffrage
+    B. all males and females who were at least 21 years of age
+    C. only males who owned property **
+    D. only citizens who had lived in the nation for at least 10 years
+    E. all native-born citizens
+    
+## I Know It Now Questions 6
+
+African American men technically gained suffrage with passage of the________ Amendment.
+
+    A. 12th
+    B. 10th
+    C. 15th **
+    D. 26th
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
